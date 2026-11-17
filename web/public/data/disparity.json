@@ -1,0 +1,254 @@
+[
+ {
+  "indikator": "rls",
+  "tahun": 2015,
+  "selisih": 4.75,
+  "cv": 16.4865
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2016,
+  "selisih": 4.75,
+  "cv": 16.1516
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2017,
+  "selisih": 4.5,
+  "cv": 15.4684
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2018,
+  "selisih": 4.3,
+  "cv": 15.0328
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2019,
+  "selisih": 4.31,
+  "cv": 14.6623
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2020,
+  "selisih": 4.08,
+  "cv": 14.4746
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2021,
+  "selisih": 3.89,
+  "cv": 13.9913
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2022,
+  "selisih": 3.89,
+  "cv": 13.6205
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2023,
+  "selisih": 3.89,
+  "cv": 13.3625
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2024,
+  "selisih": 3.8,
+  "cv": 13.1348
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2025,
+  "selisih": 3.89,
+  "cv": 12.8791
+ },
+ {
+  "indikator": "rls",
+  "tahun": 2026,
+  "selisih": 3.89,
+  "cv": 12.5362
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2015,
+  "selisih": 3.48,
+  "cv": 6.9288
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2016,
+  "selisih": 3.07,
+  "cv": 6.1607
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2017,
+  "selisih": 2.69,
+  "cv": 5.7336
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2018,
+  "selisih": 2.68,
+  "cv": 6.1386
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2019,
+  "selisih": 2.91,
+  "cv": 6.3859
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2020,
+  "selisih": 3.01,
+  "cv": 6.602
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2021,
+  "selisih": 3.11,
+  "cv": 6.9159
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2022,
+  "selisih": 2.96,
+  "cv": 6.5877
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2023,
+  "selisih": 2.96,
+  "cv": 6.5752
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2024,
+  "selisih": 2.97,
+  "cv": 6.5899
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2025,
+  "selisih": 3.0,
+  "cv": 6.5914
+ },
+ {
+  "indikator": "hls",
+  "tahun": 2026,
+  "selisih": 3.0,
+  "cv": 6.5677
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2020,
+  "selisih": 12.95,
+  "cv": 5.0201
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2021,
+  "selisih": 12.75,
+  "cv": 4.9605
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2022,
+  "selisih": 12.26,
+  "cv": 4.7779
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2023,
+  "selisih": 12.07,
+  "cv": 4.6493
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2024,
+  "selisih": 11.87,
+  "cv": 4.5586
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2025,
+  "selisih": 11.86,
+  "cv": 4.5386
+ },
+ {
+  "indikator": "ipm",
+  "tahun": 2026,
+  "selisih": 11.8,
+  "cv": 4.4325
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2015,
+  "selisih": 15.0,
+  "cv": 28.4359
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2016,
+  "selisih": 14.92,
+  "cv": 28.327
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2017,
+  "selisih": 13.89,
+  "cv": 27.3926
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2018,
+  "selisih": 13.3,
+  "cv": 27.9395
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2019,
+  "selisih": 12.43,
+  "cv": 27.6332
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2020,
+  "selisih": 11.97,
+  "cv": 27.2012
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2021,
+  "selisih": 12.09,
+  "cv": 26.1928
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2022,
+  "selisih": 11.57,
+  "cv": 27.717
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2023,
+  "selisih": 10.44,
+  "cv": 27.2412
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2024,
+  "selisih": 10.61,
+  "cv": 27.921
+ },
+ {
+  "indikator": "pctMiskin",
+  "tahun": 2025,
+  "selisih": 9.86,
+  "cv": 27.8906
+ }
+]

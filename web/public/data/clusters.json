@@ -1,0 +1,109 @@
+[
+ {
+  "id": 1,
+  "nama": "Miskin rendah, sekolah banyak, pendidikan tertinggal",
+  "ringkasan": "Kabupaten dengan angka kemiskinan rendah dan sekolah menengah yang banyak per penduduk, tetapi RLS dan HLS rata-ratanya terendah. Sebagian besar anggotanya berpenduduk jarang, sehingga sekolah berjauhan.",
+  "anggota": [
+   "1807",
+   "1808",
+   "1810",
+   "1811",
+   "1812"
+  ],
+  "profil": {
+   "rls": -0.5592,
+   "hls": -0.5266,
+   "pctMiskin": -0.7955,
+   "pengeluaran": -0.2761,
+   "pctPdrbPrimer": -0.0213,
+   "sekolahPer100rb": 0.4025,
+   "sekolahPer100km2": -0.3592,
+   "kepadatan": -0.4032
+  },
+  "rekomendasi": [
+   {
+    "intervensi": "Dekatkan layanan SMA/SMK ke permukiman yang berjauhan lewat sekolah berasrama, SMP–SMA satu atap, dan bantuan transportasi siswa; jangan hanya menambah jumlah unit sekolah.",
+    "sasaran": "Dinas Pendidikan dan Kebudayaan Provinsi Lampung bersama Pemkab setempat",
+    "insightId": "I6"
+   },
+   {
+    "intervensi": "Perluas pendidikan kesetaraan (Paket B dan C) bagi penduduk dewasa, karena RLS usia 25+ di tipe ini terendah.",
+    "sasaran": "Dinas Pendidikan Kabupaten",
+    "insightId": "I9"
+   },
+   {
+    "intervensi": "Masukkan RLS dan HLS, bukan hanya angka kemiskinan, sebagai kriteria penentuan daerah prioritas program pendidikan.",
+    "sasaran": "Bappeda Provinsi Lampung",
+    "insightId": "I5"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "nama": "Agraris, miskin lebih tinggi",
+  "ringkasan": "Kabupaten dengan porsi ekonomi primer besar dan kemiskinan tertinggi. Sekolah menengah per penduduk paling sedikit dan HLS rata-rata di bawah provinsi.",
+  "anggota": [
+   "1801",
+   "1802",
+   "1803",
+   "1804",
+   "1805",
+   "1806",
+   "1809",
+   "1813"
+  ],
+  "profil": {
+   "rls": -0.2427,
+   "hls": -0.2563,
+   "pctMiskin": 0.7649,
+   "pengeluaran": -0.2678,
+   "pctPdrbPrimer": 0.5456,
+   "sekolahPer100rb": -0.5992,
+   "sekolahPer100km2": -0.4004,
+   "kepadatan": -0.285
+  },
+  "rekomendasi": [
+   {
+    "intervensi": "Prioritaskan bantuan biaya sekolah (beasiswa daerah dan pendampingan penerima PIP) untuk jenjang SMA/SMK, karena kemiskinan di tipe ini tertinggi.",
+    "sasaran": "Dinas Pendidikan dan Kebudayaan Provinsi Lampung",
+    "insightId": "I10"
+   },
+   {
+    "intervensi": "Petakan kecamatan yang jauh dari SMA/SMK sebelum membangun unit sekolah baru, agar penambahan sekolah memperbaiki sebaran, bukan sekadar jumlah.",
+    "sasaran": "Bappeda dan Dinas Pendidikan Kabupaten",
+    "insightId": "I6"
+   },
+   {
+    "intervensi": "Pantau HLS tiap tahun sebagai indikator kinerja daerah, karena kesenjangan HLS antarwilayah tidak menyempit.",
+    "sasaran": "Bappeda Kabupaten",
+    "insightId": "I3"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "nama": "Perkotaan, pusat layanan",
+  "ringkasan": "Dua kota dengan RLS, HLS, dan kerapatan sekolah tertinggi; hampir tanpa ekonomi primer.",
+  "anggota": [
+   "1871",
+   "1872"
+  ],
+  "profil": {
+   "rls": 2.369,
+   "hls": 2.3418,
+   "pctMiskin": -1.0708,
+   "pengeluaran": 1.7613,
+   "pctPdrbPrimer": -2.1293,
+   "sekolahPer100rb": 1.3906,
+   "sekolahPer100km2": 2.4995,
+   "kepadatan": 2.1479
+  },
+  "rekomendasi": [
+   {
+    "intervensi": "Jadikan kota sebagai pusat rujukan: sediakan kuota dan asrama bagi siswa dari dua tipe kabupaten, agar kesenjangan dengan wilayah lain menyempit.",
+    "sasaran": "Dinas Pendidikan dan Kebudayaan Provinsi Lampung bersama Pemkot",
+    "insightId": "I11"
+   }
+  ]
+ }
+]

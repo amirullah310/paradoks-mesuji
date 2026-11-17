@@ -1,0 +1,983 @@
+{
+ "disparity": [
+  {
+   "indikator": "rls",
+   "tahun": 2015,
+   "selisih": 4.75,
+   "cv": 16.4865
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2016,
+   "selisih": 4.75,
+   "cv": 16.1516
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2017,
+   "selisih": 4.5,
+   "cv": 15.4684
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2018,
+   "selisih": 4.3,
+   "cv": 15.0328
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2019,
+   "selisih": 4.31,
+   "cv": 14.6623
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2020,
+   "selisih": 4.08,
+   "cv": 14.4746
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2021,
+   "selisih": 3.89,
+   "cv": 13.9913
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2022,
+   "selisih": 3.89,
+   "cv": 13.6205
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2023,
+   "selisih": 3.89,
+   "cv": 13.3625
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2024,
+   "selisih": 3.8,
+   "cv": 13.1348
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2025,
+   "selisih": 3.89,
+   "cv": 12.8791
+  },
+  {
+   "indikator": "rls",
+   "tahun": 2026,
+   "selisih": 3.89,
+   "cv": 12.5362
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2015,
+   "selisih": 3.48,
+   "cv": 6.9288
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2016,
+   "selisih": 3.07,
+   "cv": 6.1607
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2017,
+   "selisih": 2.69,
+   "cv": 5.7336
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2018,
+   "selisih": 2.68,
+   "cv": 6.1386
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2019,
+   "selisih": 2.91,
+   "cv": 6.3859
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2020,
+   "selisih": 3.01,
+   "cv": 6.602
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2021,
+   "selisih": 3.11,
+   "cv": 6.9159
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2022,
+   "selisih": 2.96,
+   "cv": 6.5877
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2023,
+   "selisih": 2.96,
+   "cv": 6.5752
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2024,
+   "selisih": 2.97,
+   "cv": 6.5899
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2025,
+   "selisih": 3.0,
+   "cv": 6.5914
+  },
+  {
+   "indikator": "hls",
+   "tahun": 2026,
+   "selisih": 3.0,
+   "cv": 6.5677
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2020,
+   "selisih": 12.95,
+   "cv": 5.0201
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2021,
+   "selisih": 12.75,
+   "cv": 4.9605
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2022,
+   "selisih": 12.26,
+   "cv": 4.7779
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2023,
+   "selisih": 12.07,
+   "cv": 4.6493
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2024,
+   "selisih": 11.87,
+   "cv": 4.5586
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2025,
+   "selisih": 11.86,
+   "cv": 4.5386
+  },
+  {
+   "indikator": "ipm",
+   "tahun": 2026,
+   "selisih": 11.8,
+   "cv": 4.4325
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2015,
+   "selisih": 15.0,
+   "cv": 28.4359
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2016,
+   "selisih": 14.92,
+   "cv": 28.327
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2017,
+   "selisih": 13.89,
+   "cv": 27.3926
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2018,
+   "selisih": 13.3,
+   "cv": 27.9395
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2019,
+   "selisih": 12.43,
+   "cv": 27.6332
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2020,
+   "selisih": 11.97,
+   "cv": 27.2012
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2021,
+   "selisih": 12.09,
+   "cv": 26.1928
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2022,
+   "selisih": 11.57,
+   "cv": 27.717
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2023,
+   "selisih": 10.44,
+   "cv": 27.2412
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2024,
+   "selisih": 10.61,
+   "cv": 27.921
+  },
+  {
+   "indikator": "pctMiskin",
+   "tahun": 2025,
+   "selisih": 9.86,
+   "cv": 27.8906
+  }
+ ],
+ "correlations": {
+  "vars": [
+   "rls",
+   "hls",
+   "pctMiskin",
+   "pengeluaran",
+   "pctPdrbPrimer",
+   "sekolahPer100rb",
+   "sekolahPer100km2",
+   "kepadatan"
+  ],
+  "rho": [
+   [
+    1.0,
+    0.6351,
+    0.1643,
+    0.4679,
+    -0.2571,
+    -0.0143,
+    0.4536,
+    0.5107
+   ],
+   [
+    0.6351,
+    1.0,
+    0.0358,
+    0.7263,
+    -0.5045,
+    0.1091,
+    0.8945,
+    0.8533
+   ],
+   [
+    0.1643,
+    0.0358,
+    1.0,
+    -0.2643,
+    0.5536,
+    -0.5929,
+    -0.1179,
+    -0.075
+   ],
+   [
+    0.4679,
+    0.7263,
+    -0.2643,
+    1.0,
+    -0.475,
+    0.1893,
+    0.5964,
+    0.5679
+   ],
+   [
+    -0.2571,
+    -0.5045,
+    0.5536,
+    -0.475,
+    1.0,
+    -0.5393,
+    -0.6857,
+    -0.6679
+   ],
+   [
+    -0.0143,
+    0.1091,
+    -0.5929,
+    0.1893,
+    -0.5393,
+    1.0,
+    0.175,
+    0.0357
+   ],
+   [
+    0.4536,
+    0.8945,
+    -0.1179,
+    0.5964,
+    -0.6857,
+    0.175,
+    1.0,
+    0.9643
+   ],
+   [
+    0.5107,
+    0.8533,
+    -0.075,
+    0.5679,
+    -0.6679,
+    0.0357,
+    0.9643,
+    1.0
+   ]
+  ],
+  "p": [
+   [
+    0.0,
+    0.011,
+    0.5585,
+    0.0786,
+    0.3549,
+    0.9597,
+    0.0895,
+    0.0517
+   ],
+   [
+    0.011,
+    0.0,
+    0.8993,
+    0.0022,
+    0.0551,
+    0.6987,
+    0.0,
+    0.0001
+   ],
+   [
+    0.5585,
+    0.8993,
+    0.0,
+    0.3412,
+    0.0323,
+    0.0198,
+    0.6757,
+    0.7905
+   ],
+   [
+    0.0786,
+    0.0022,
+    0.3412,
+    0.0,
+    0.0736,
+    0.4993,
+    0.0189,
+    0.0272
+   ],
+   [
+    0.3549,
+    0.0551,
+    0.0323,
+    0.0736,
+    0.0,
+    0.038,
+    0.0048,
+    0.0065
+   ],
+   [
+    0.9597,
+    0.6987,
+    0.0198,
+    0.4993,
+    0.038,
+    0.0,
+    0.5327,
+    0.8994
+   ],
+   [
+    0.0895,
+    0.0,
+    0.6757,
+    0.0189,
+    0.0048,
+    0.5327,
+    0.0,
+    0.0
+   ],
+   [
+    0.0517,
+    0.0001,
+    0.7905,
+    0.0272,
+    0.0065,
+    0.8994,
+    0.0,
+    0.0
+   ]
+  ],
+  "tahun": 2025,
+  "n": 15
+ },
+ "correlationsKabupaten": {
+  "vars": [
+   "rls",
+   "hls",
+   "pctMiskin",
+   "pengeluaran",
+   "pctPdrbPrimer",
+   "sekolahPer100rb",
+   "sekolahPer100km2",
+   "kepadatan"
+  ],
+  "rho": [
+   [
+    1.0,
+    0.438,
+    0.5824,
+    0.1868,
+    0.1429,
+    -0.2253,
+    0.1648,
+    0.2527
+   ],
+   [
+    0.438,
+    1.0,
+    0.3802,
+    0.584,
+    -0.2369,
+    -0.0716,
+    0.843,
+    0.7796
+   ],
+   [
+    0.5824,
+    0.3802,
+    1.0,
+    -0.0714,
+    0.4121,
+    -0.5879,
+    0.1813,
+    0.2363
+   ],
+   [
+    0.1868,
+    0.584,
+    -0.0714,
+    1.0,
+    -0.1978,
+    0.0989,
+    0.3791,
+    0.3352
+   ],
+   [
+    0.1429,
+    -0.2369,
+    0.4121,
+    -0.1978,
+    1.0,
+    -0.533,
+    -0.522,
+    -0.4945
+   ],
+   [
+    -0.2253,
+    -0.0716,
+    -0.5879,
+    0.0989,
+    -0.533,
+    1.0,
+    0.0549,
+    -0.1374
+   ],
+   [
+    0.1648,
+    0.843,
+    0.1813,
+    0.3791,
+    -0.522,
+    0.0549,
+    1.0,
+    0.9451
+   ],
+   [
+    0.2527,
+    0.7796,
+    0.2363,
+    0.3352,
+    -0.4945,
+    -0.1374,
+    0.9451,
+    1.0
+   ]
+  ],
+  "p": [
+   [
+    0.0,
+    0.1344,
+    0.0367,
+    0.5411,
+    0.6415,
+    0.4593,
+    0.5905,
+    0.4048
+   ],
+   [
+    0.1344,
+    0.0,
+    0.2001,
+    0.0361,
+    0.4358,
+    0.8161,
+    0.0003,
+    0.0017
+   ],
+   [
+    0.0367,
+    0.2001,
+    0.0,
+    0.8166,
+    0.1618,
+    0.0346,
+    0.5533,
+    0.4371
+   ],
+   [
+    0.5411,
+    0.0361,
+    0.8166,
+    0.0,
+    0.5171,
+    0.7479,
+    0.2014,
+    0.2629
+   ],
+   [
+    0.6415,
+    0.4358,
+    0.1618,
+    0.5171,
+    0.0,
+    0.0607,
+    0.0673,
+    0.0858
+   ],
+   [
+    0.4593,
+    0.8161,
+    0.0346,
+    0.7479,
+    0.0607,
+    0.0,
+    0.8585,
+    0.6545
+   ],
+   [
+    0.5905,
+    0.0003,
+    0.5533,
+    0.2014,
+    0.0673,
+    0.8585,
+    0.0,
+    0.0
+   ],
+   [
+    0.4048,
+    0.0017,
+    0.4371,
+    0.2629,
+    0.0858,
+    0.6545,
+    0.0,
+    0.0
+   ]
+  ],
+  "tahun": 2025,
+  "n": 13
+ },
+ "clustering": {
+  "k": 3,
+  "aturanK": "siluet dalam 0.01 dari maksimum, lalu ARI vs Ward tertinggi",
+  "evaluasi": [
+   {
+    "k": 3,
+    "silhouette": 0.2524,
+    "ariWard": 0.5465,
+    "inertia": 32.4491
+   },
+   {
+    "k": 4,
+    "silhouette": 0.1958,
+    "ariWard": 0.5411,
+    "inertia": 24.869
+   },
+   {
+    "k": 5,
+    "silhouette": 0.1968,
+    "ariWard": 1.0,
+    "inertia": 18.1289
+   }
+  ],
+  "labels": {
+   "1801": 2,
+   "1802": 2,
+   "1803": 2,
+   "1804": 2,
+   "1805": 2,
+   "1806": 2,
+   "1807": 1,
+   "1808": 1,
+   "1809": 2,
+   "1810": 1,
+   "1811": 1,
+   "1812": 1,
+   "1813": 2,
+   "1871": 3,
+   "1872": 3
+  },
+  "profil": {
+   "1": {
+    "rls": -0.5592,
+    "hls": -0.5266,
+    "pctMiskin": -0.7955,
+    "pengeluaran": -0.2761,
+    "pctPdrbPrimer": -0.0213,
+    "sekolahPer100rb": 0.4025,
+    "sekolahPer100km2": -0.3592,
+    "kepadatan": -0.4032
+   },
+   "2": {
+    "rls": -0.2427,
+    "hls": -0.2563,
+    "pctMiskin": 0.7649,
+    "pengeluaran": -0.2678,
+    "pctPdrbPrimer": 0.5456,
+    "sekolahPer100rb": -0.5992,
+    "sekolahPer100km2": -0.4004,
+    "kepadatan": -0.285
+   },
+   "3": {
+    "rls": 2.369,
+    "hls": 2.3418,
+    "pctMiskin": -1.0708,
+    "pengeluaran": 1.7613,
+    "pctPdrbPrimer": -2.1293,
+    "sekolahPer100rb": 1.3906,
+    "sekolahPer100km2": 2.4995,
+    "kepadatan": 2.1479
+   }
+  },
+  "anggota": {
+   "1": [
+    "1807",
+    "1808",
+    "1810",
+    "1811",
+    "1812"
+   ],
+   "2": [
+    "1801",
+    "1802",
+    "1803",
+    "1804",
+    "1805",
+    "1806",
+    "1809",
+    "1813"
+   ],
+   "3": [
+    "1871",
+    "1872"
+   ]
+  },
+  "intiMesuji": [
+   "1807",
+   "1808",
+   "1811",
+   "1812"
+  ],
+  "jumlahSolusiDiuji": 6
+ },
+ "ranks": {
+  "1801": {
+   "pctMiskin": 9,
+   "rls": 10,
+   "hls": 3,
+   "ipm": 10,
+   "pengeluaran": 9,
+   "sekolahPer100rb": 3,
+   "smpPer100rb": 10,
+   "sekolahPer100km2": 2,
+   "kepadatan": 5,
+   "pctPdrbPrimer": 13
+  },
+  "1802": {
+   "pctMiskin": 10,
+   "rls": 2,
+   "hls": 5,
+   "ipm": 4,
+   "pengeluaran": 7,
+   "sekolahPer100rb": 2,
+   "smpPer100rb": 2,
+   "sekolahPer100km2": 6,
+   "kepadatan": 6,
+   "pctPdrbPrimer": 12
+  },
+  "1803": {
+   "pctMiskin": 12,
+   "rls": 6,
+   "hls": 10,
+   "ipm": 8,
+   "pengeluaran": 8,
+   "sekolahPer100rb": 8,
+   "smpPer100rb": 6,
+   "sekolahPer100km2": 12,
+   "kepadatan": 12,
+   "pctPdrbPrimer": 4
+  },
+  "1804": {
+   "pctMiskin": 14,
+   "rls": 9,
+   "hls": 11,
+   "ipm": 11,
+   "pengeluaran": 10,
+   "sekolahPer100rb": 7,
+   "smpPer100rb": 7,
+   "sekolahPer100km2": 10,
+   "kepadatan": 9,
+   "pctPdrbPrimer": 15
+  },
+  "1805": {
+   "pctMiskin": 8,
+   "rls": 8,
+   "hls": 13,
+   "ipm": 13,
+   "pengeluaran": 13,
+   "sekolahPer100rb": 5,
+   "smpPer100rb": 4,
+   "sekolahPer100km2": 11,
+   "kepadatan": 10,
+   "pctPdrbPrimer": 8
+  },
+  "1806": {
+   "pctMiskin": 15,
+   "rls": 11,
+   "hls": 8,
+   "ipm": 7,
+   "pengeluaran": 5,
+   "sekolahPer100rb": 9,
+   "smpPer100rb": 8,
+   "sekolahPer100km2": 8,
+   "kepadatan": 8,
+   "pctPdrbPrimer": 7
+  },
+  "1807": {
+   "pctMiskin": 7,
+   "rls": 5,
+   "hls": 7,
+   "ipm": 6,
+   "pengeluaran": 6,
+   "sekolahPer100rb": 12,
+   "smpPer100rb": 12,
+   "sekolahPer100km2": 5,
+   "kepadatan": 3,
+   "pctPdrbPrimer": 11
+  },
+  "1808": {
+   "pctMiskin": 5,
+   "rls": 4,
+   "hls": 6,
+   "ipm": 9,
+   "pengeluaran": 12,
+   "sekolahPer100rb": 11,
+   "smpPer100rb": 14,
+   "sekolahPer100km2": 4,
+   "kepadatan": 4,
+   "pctPdrbPrimer": 6
+  },
+  "1809": {
+   "pctMiskin": 11,
+   "rls": 7,
+   "hls": 8,
+   "ipm": 3,
+   "pengeluaran": 1,
+   "sekolahPer100rb": 1,
+   "smpPer100rb": 3,
+   "sekolahPer100km2": 9,
+   "kepadatan": 11,
+   "pctPdrbPrimer": 10
+  },
+  "1810": {
+   "pctMiskin": 6,
+   "rls": 12,
+   "hls": 12,
+   "ipm": 12,
+   "pengeluaran": 11,
+   "sekolahPer100rb": 13,
+   "smpPer100rb": 5,
+   "sekolahPer100km2": 13,
+   "kepadatan": 13,
+   "pctPdrbPrimer": 3
+  },
+  "1811": {
+   "pctMiskin": 1,
+   "rls": 1,
+   "hls": 1,
+   "ipm": 1,
+   "pengeluaran": 2,
+   "sekolahPer100rb": 14,
+   "smpPer100rb": 15,
+   "sekolahPer100km2": 3,
+   "kepadatan": 2,
+   "pctPdrbPrimer": 9
+  },
+  "1812": {
+   "pctMiskin": 3,
+   "rls": 3,
+   "hls": 2,
+   "ipm": 2,
+   "pengeluaran": 4,
+   "sekolahPer100rb": 10,
+   "smpPer100rb": 13,
+   "sekolahPer100km2": 7,
+   "kepadatan": 7,
+   "pctPdrbPrimer": 5
+  },
+  "1813": {
+   "pctMiskin": 13,
+   "rls": 13,
+   "hls": 3,
+   "ipm": 5,
+   "pengeluaran": 3,
+   "sekolahPer100rb": 4,
+   "smpPer100rb": 11,
+   "sekolahPer100km2": 1,
+   "kepadatan": 1,
+   "pctPdrbPrimer": 14
+  },
+  "1871": {
+   "pctMiskin": 4,
+   "rls": 14,
+   "hls": 14,
+   "ipm": 15,
+   "pengeluaran": 15,
+   "sekolahPer100rb": 6,
+   "smpPer100rb": 1,
+   "sekolahPer100km2": 15,
+   "kepadatan": 15,
+   "pctPdrbPrimer": 2
+  },
+  "1872": {
+   "pctMiskin": 2,
+   "rls": 15,
+   "hls": 15,
+   "ipm": 14,
+   "pengeluaran": 14,
+   "sekolahPer100rb": 15,
+   "smpPer100rb": 9,
+   "sekolahPer100km2": 14,
+   "kepadatan": 14,
+   "pctPdrbPrimer": 1
+  }
+ },
+ "mesujiRankHistory": [
+  {
+   "tahun": 2015,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2016,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2017,
+   "pctMiskin": 1,
+   "pengeluaran": 1,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2018,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2019,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2020,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2021,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2022,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2023,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2024,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2025,
+   "pctMiskin": 1,
+   "pengeluaran": 2,
+   "rls": 1,
+   "hls": 1
+  },
+  {
+   "tahun": 2026,
+   "pctMiskin": null,
+   "pengeluaran": 3,
+   "rls": 1,
+   "hls": 1
+  }
+ ]
+}

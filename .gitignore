@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Video demo: berkas besar, diunggah terpisah (YouTube/Drive)
+demo/*.mp4
+demo/suara/

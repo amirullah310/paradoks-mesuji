@@ -1,0 +1,10 @@
+[project]
+name = "analysis"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas>=1.2.0",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+]

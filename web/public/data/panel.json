@@ -1,0 +1,1922 @@
+[
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2015,
+  "rls": 7.56,
+  "hls": 12.25,
+  "ipm": null,
+  "pctMiskin": 14.35,
+  "pengeluaran": 8729.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2016,
+  "rls": 7.63,
+  "hls": 12.35,
+  "ipm": null,
+  "pctMiskin": 14.29,
+  "pengeluaran": 9156.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2017,
+  "rls": 7.79,
+  "hls": 12.46,
+  "ipm": null,
+  "pctMiskin": 13.69,
+  "pengeluaran": 9413.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2018,
+  "rls": 7.82,
+  "hls": 12.61,
+  "ipm": null,
+  "pctMiskin": 13.14,
+  "pengeluaran": 9858.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2019,
+  "rls": 7.92,
+  "hls": 12.63,
+  "ipm": null,
+  "pctMiskin": 12.62,
+  "pengeluaran": 10114.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2020,
+  "rls": 8.05,
+  "hls": 12.65,
+  "ipm": 71.04,
+  "pctMiskin": 12.34,
+  "pengeluaran": 9982.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2021,
+  "rls": 8.08,
+  "hls": 12.73,
+  "ipm": 71.25,
+  "pctMiskin": 12.62,
+  "pengeluaran": 10038.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2022,
+  "rls": 8.18,
+  "hls": 12.74,
+  "ipm": 71.79,
+  "pctMiskin": 11.57,
+  "pengeluaran": 10336.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2023,
+  "rls": 8.29,
+  "hls": 12.77,
+  "ipm": 72.48,
+  "pctMiskin": 11.11,
+  "pengeluaran": 10769.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2024,
+  "rls": 8.36,
+  "hls": 12.78,
+  "ipm": 73.13,
+  "pctMiskin": 10.69,
+  "pengeluaran": 11258.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2025,
+  "rls": 8.61,
+  "hls": 12.79,
+  "ipm": 73.98,
+  "pctMiskin": 10.0,
+  "pengeluaran": 11683.0
+ },
+ {
+  "kode": "1800",
+  "nama": "Provinsi Lampung",
+  "tahun": 2026,
+  "rls": 8.7,
+  "hls": 12.8,
+  "ipm": 74.74,
+  "pctMiskin": null,
+  "pengeluaran": 12327.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2015,
+  "rls": 7.27,
+  "hls": 11.74,
+  "ipm": null,
+  "pctMiskin": 14.18,
+  "pengeluaran": 8801.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2016,
+  "rls": 7.28,
+  "hls": 12.17,
+  "ipm": null,
+  "pctMiskin": 15.06,
+  "pengeluaran": 9106.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2017,
+  "rls": 7.33,
+  "hls": 12.18,
+  "ipm": null,
+  "pctMiskin": 14.32,
+  "pengeluaran": 9517.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2018,
+  "rls": 7.6,
+  "hls": 12.19,
+  "ipm": null,
+  "pctMiskin": 13.54,
+  "pengeluaran": 9741.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2019,
+  "rls": 7.85,
+  "hls": 12.24,
+  "ipm": null,
+  "pctMiskin": 12.92,
+  "pengeluaran": 9970.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2020,
+  "rls": 8.06,
+  "hls": 12.25,
+  "ipm": 70.47,
+  "pctMiskin": 12.52,
+  "pengeluaran": 9929.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2021,
+  "rls": 8.07,
+  "hls": 12.26,
+  "ipm": 70.55,
+  "pctMiskin": 12.82,
+  "pengeluaran": 9969.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2022,
+  "rls": 8.2,
+  "hls": 12.27,
+  "ipm": 71.01,
+  "pctMiskin": 11.71,
+  "pengeluaran": 10175.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2023,
+  "rls": 8.36,
+  "hls": 12.29,
+  "ipm": 71.72,
+  "pctMiskin": 11.17,
+  "pengeluaran": 10593.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2024,
+  "rls": 8.56,
+  "hls": 12.3,
+  "ipm": 72.41,
+  "pctMiskin": 10.68,
+  "pengeluaran": 10965.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2025,
+  "rls": 8.57,
+  "hls": 12.31,
+  "ipm": 73.14,
+  "pctMiskin": 9.93,
+  "pengeluaran": 11612.0
+ },
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tahun": 2026,
+  "rls": 8.58,
+  "hls": 12.32,
+  "ipm": 73.8,
+  "pctMiskin": null,
+  "pengeluaran": 12303.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2015,
+  "rls": 6.86,
+  "hls": 11.92,
+  "ipm": null,
+  "pctMiskin": 14.26,
+  "pengeluaran": 7961.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2016,
+  "rls": 6.87,
+  "hls": 11.93,
+  "ipm": null,
+  "pctMiskin": 14.05,
+  "pengeluaran": 8483.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2017,
+  "rls": 6.88,
+  "hls": 12.14,
+  "ipm": null,
+  "pctMiskin": 13.25,
+  "pengeluaran": 8661.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2018,
+  "rls": 6.96,
+  "hls": 12.15,
+  "ipm": null,
+  "pctMiskin": 12.48,
+  "pengeluaran": 9107.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2019,
+  "rls": 7.21,
+  "hls": 12.17,
+  "ipm": null,
+  "pctMiskin": 12.05,
+  "pengeluaran": 9294.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2020,
+  "rls": 7.22,
+  "hls": 12.18,
+  "ipm": 68.58,
+  "pctMiskin": 11.68,
+  "pengeluaran": 9250.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2021,
+  "rls": 7.34,
+  "hls": 12.19,
+  "ipm": 68.79,
+  "pctMiskin": 11.81,
+  "pengeluaran": 9266.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2022,
+  "rls": 7.35,
+  "hls": 12.3,
+  "ipm": 69.32,
+  "pctMiskin": 10.98,
+  "pengeluaran": 9557.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2023,
+  "rls": 7.36,
+  "hls": 12.31,
+  "ipm": 69.93,
+  "pctMiskin": 10.52,
+  "pengeluaran": 10038.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2024,
+  "rls": 7.38,
+  "hls": 12.33,
+  "ipm": 70.54,
+  "pctMiskin": 10.28,
+  "pengeluaran": 10524.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2025,
+  "rls": 7.63,
+  "hls": 12.34,
+  "ipm": 71.36,
+  "pctMiskin": 10.1,
+  "pengeluaran": 10888.0
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tahun": 2026,
+  "rls": 7.84,
+  "hls": 12.35,
+  "ipm": 72.12,
+  "pctMiskin": null,
+  "pengeluaran": 11340.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2015,
+  "rls": 7.24,
+  "hls": 11.65,
+  "ipm": null,
+  "pctMiskin": 16.27,
+  "pengeluaran": 8746.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2016,
+  "rls": 7.53,
+  "hls": 11.68,
+  "ipm": null,
+  "pctMiskin": 16.16,
+  "pengeluaran": 9189.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2017,
+  "rls": 7.66,
+  "hls": 12.05,
+  "ipm": null,
+  "pctMiskin": 15.16,
+  "pengeluaran": 9310.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2018,
+  "rls": 7.67,
+  "hls": 12.17,
+  "ipm": null,
+  "pctMiskin": 14.86,
+  "pengeluaran": 9781.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2019,
+  "rls": 7.68,
+  "hls": 12.33,
+  "ipm": null,
+  "pctMiskin": 14.31,
+  "pengeluaran": 9978.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2020,
+  "rls": 7.69,
+  "hls": 12.5,
+  "ipm": 70.36,
+  "pctMiskin": 14.08,
+  "pengeluaran": 9875.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2021,
+  "rls": 7.7,
+  "hls": 12.52,
+  "ipm": 70.48,
+  "pctMiskin": 14.19,
+  "pengeluaran": 9931.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2022,
+  "rls": 7.72,
+  "hls": 12.54,
+  "ipm": 70.95,
+  "pctMiskin": 13.14,
+  "pengeluaran": 10266.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2023,
+  "rls": 7.77,
+  "hls": 12.64,
+  "ipm": 71.55,
+  "pctMiskin": 12.79,
+  "pengeluaran": 10617.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2024,
+  "rls": 7.78,
+  "hls": 12.65,
+  "ipm": 72.15,
+  "pctMiskin": 12.57,
+  "pengeluaran": 11133.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2025,
+  "rls": 7.98,
+  "hls": 12.79,
+  "ipm": 73.1,
+  "pctMiskin": 12.05,
+  "pengeluaran": 11540.0
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tahun": 2026,
+  "rls": 8.16,
+  "hls": 12.8,
+  "ipm": 73.76,
+  "pctMiskin": null,
+  "pengeluaran": 11906.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2015,
+  "rls": 7.2,
+  "hls": 12.4,
+  "ipm": null,
+  "pctMiskin": 16.91,
+  "pengeluaran": 9194.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2016,
+  "rls": 7.55,
+  "hls": 12.41,
+  "ipm": null,
+  "pctMiskin": 16.98,
+  "pengeluaran": 9416.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2017,
+  "rls": 7.56,
+  "hls": 12.44,
+  "ipm": null,
+  "pctMiskin": 16.35,
+  "pengeluaran": 9453.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2018,
+  "rls": 7.57,
+  "hls": 12.83,
+  "ipm": null,
+  "pctMiskin": 15.76,
+  "pengeluaran": 9908.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2019,
+  "rls": 7.59,
+  "hls": 12.84,
+  "ipm": null,
+  "pctMiskin": 15.24,
+  "pengeluaran": 10028.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2020,
+  "rls": 7.6,
+  "hls": 12.85,
+  "ipm": 70.62,
+  "pctMiskin": 14.62,
+  "pengeluaran": 9983.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2021,
+  "rls": 7.77,
+  "hls": 12.86,
+  "ipm": 70.91,
+  "pctMiskin": 15.08,
+  "pengeluaran": 10026.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2022,
+  "rls": 8.04,
+  "hls": 12.96,
+  "ipm": 71.82,
+  "pctMiskin": 13.98,
+  "pengeluaran": 10403.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2023,
+  "rls": 8.14,
+  "hls": 12.97,
+  "ipm": 72.44,
+  "pctMiskin": 13.8,
+  "pengeluaran": 10812.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2024,
+  "rls": 8.2,
+  "hls": 12.98,
+  "ipm": 73.05,
+  "pctMiskin": 13.19,
+  "pengeluaran": 11262.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2025,
+  "rls": 8.46,
+  "hls": 13.0,
+  "ipm": 73.92,
+  "pctMiskin": 12.15,
+  "pengeluaran": 11670.0
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tahun": 2026,
+  "rls": 8.55,
+  "hls": 13.01,
+  "ipm": 74.57,
+  "pctMiskin": null,
+  "pengeluaran": 12180.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2015,
+  "rls": 7.14,
+  "hls": 12.2,
+  "ipm": null,
+  "pctMiskin": 13.3,
+  "pengeluaran": 10298.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2016,
+  "rls": 7.37,
+  "hls": 12.21,
+  "ipm": null,
+  "pctMiskin": 13.28,
+  "pengeluaran": 10674.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2017,
+  "rls": 7.38,
+  "hls": 12.6,
+  "ipm": null,
+  "pctMiskin": 12.9,
+  "pengeluaran": 10820.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2018,
+  "rls": 7.51,
+  "hls": 12.9,
+  "ipm": null,
+  "pctMiskin": 12.62,
+  "pengeluaran": 11052.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2019,
+  "rls": 7.57,
+  "hls": 12.91,
+  "ipm": null,
+  "pctMiskin": 12.03,
+  "pengeluaran": 11154.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2020,
+  "rls": 7.58,
+  "hls": 12.92,
+  "ipm": 71.97,
+  "pctMiskin": 11.82,
+  "pengeluaran": 11219.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2021,
+  "rls": 7.59,
+  "hls": 12.93,
+  "ipm": 72.04,
+  "pctMiskin": 11.99,
+  "pengeluaran": 11259.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2022,
+  "rls": 7.64,
+  "hls": 12.95,
+  "ipm": 72.59,
+  "pctMiskin": 10.96,
+  "pengeluaran": 11710.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2023,
+  "rls": 7.81,
+  "hls": 13.04,
+  "ipm": 73.39,
+  "pctMiskin": 10.65,
+  "pengeluaran": 12195.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2024,
+  "rls": 7.97,
+  "hls": 13.17,
+  "ipm": 74.16,
+  "pctMiskin": 10.37,
+  "pengeluaran": 12595.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2025,
+  "rls": 8.17,
+  "hls": 13.18,
+  "ipm": 74.86,
+  "pctMiskin": 9.59,
+  "pengeluaran": 12975.0
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tahun": 2026,
+  "rls": 8.19,
+  "hls": 13.19,
+  "ipm": 75.41,
+  "pctMiskin": null,
+  "pengeluaran": 13541.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2015,
+  "rls": 7.7,
+  "hls": 12.41,
+  "ipm": null,
+  "pctMiskin": 23.2,
+  "pengeluaran": 7729.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2016,
+  "rls": 7.71,
+  "hls": 12.42,
+  "ipm": null,
+  "pctMiskin": 22.92,
+  "pengeluaran": 8212.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2017,
+  "rls": 7.99,
+  "hls": 12.43,
+  "ipm": null,
+  "pctMiskin": 21.55,
+  "pengeluaran": 8369.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2018,
+  "rls": 8.19,
+  "hls": 12.44,
+  "ipm": null,
+  "pctMiskin": 20.85,
+  "pengeluaran": 8559.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2019,
+  "rls": 8.2,
+  "hls": 12.47,
+  "ipm": null,
+  "pctMiskin": 19.9,
+  "pengeluaran": 8779.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2020,
+  "rls": 8.21,
+  "hls": 12.48,
+  "ipm": 69.58,
+  "pctMiskin": 19.3,
+  "pengeluaran": 8733.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2021,
+  "rls": 8.34,
+  "hls": 12.49,
+  "ipm": 69.78,
+  "pctMiskin": 19.63,
+  "pengeluaran": 8737.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2022,
+  "rls": 8.35,
+  "hls": 12.54,
+  "ipm": 70.19,
+  "pctMiskin": 18.41,
+  "pengeluaran": 8951.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2023,
+  "rls": 8.36,
+  "hls": 12.55,
+  "ipm": 70.78,
+  "pctMiskin": 17.17,
+  "pengeluaran": 9374.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2024,
+  "rls": 8.38,
+  "hls": 12.56,
+  "ipm": 71.42,
+  "pctMiskin": 16.92,
+  "pengeluaran": 9837.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2025,
+  "rls": 8.63,
+  "hls": 12.64,
+  "ipm": 72.28,
+  "pctMiskin": 15.78,
+  "pengeluaran": 10160.0
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tahun": 2026,
+  "rls": 8.68,
+  "hls": 12.65,
+  "ipm": 72.99,
+  "pctMiskin": null,
+  "pengeluaran": 10722.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2015,
+  "rls": 7.32,
+  "hls": 11.98,
+  "ipm": null,
+  "pctMiskin": 14.61,
+  "pengeluaran": 8313.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2016,
+  "rls": 7.33,
+  "hls": 12.31,
+  "ipm": null,
+  "pctMiskin": 14.58,
+  "pengeluaran": 8411.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2017,
+  "rls": 7.34,
+  "hls": 12.32,
+  "ipm": null,
+  "pctMiskin": 14.06,
+  "pengeluaran": 8522.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2018,
+  "rls": 7.35,
+  "hls": 12.33,
+  "ipm": null,
+  "pctMiskin": 13.52,
+  "pengeluaran": 8979.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2019,
+  "rls": 7.39,
+  "hls": 12.35,
+  "ipm": null,
+  "pctMiskin": 13.07,
+  "pengeluaran": 9292.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2020,
+  "rls": 7.7,
+  "hls": 12.36,
+  "ipm": 69.33,
+  "pctMiskin": 12.9,
+  "pengeluaran": 9102.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2021,
+  "rls": 7.71,
+  "hls": 12.37,
+  "ipm": 69.46,
+  "pctMiskin": 13.09,
+  "pengeluaran": 9173.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2022,
+  "rls": 7.72,
+  "hls": 12.42,
+  "ipm": 69.92,
+  "pctMiskin": 11.76,
+  "pengeluaran": 9450.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2023,
+  "rls": 7.74,
+  "hls": 12.43,
+  "ipm": 70.51,
+  "pctMiskin": 11.02,
+  "pengeluaran": 9887.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2024,
+  "rls": 7.75,
+  "hls": 12.44,
+  "ipm": 71.17,
+  "pctMiskin": 10.43,
+  "pengeluaran": 10439.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2025,
+  "rls": 7.91,
+  "hls": 12.53,
+  "ipm": 71.98,
+  "pctMiskin": 9.36,
+  "pengeluaran": 10831.0
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tahun": 2026,
+  "rls": 7.92,
+  "hls": 12.73,
+  "ipm": 72.71,
+  "pctMiskin": null,
+  "pengeluaran": 11296.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2015,
+  "rls": 7.11,
+  "hls": 11.15,
+  "ipm": null,
+  "pctMiskin": 10.25,
+  "pengeluaran": 9893.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2016,
+  "rls": 7.12,
+  "hls": 11.55,
+  "ipm": null,
+  "pctMiskin": 10.2,
+  "pengeluaran": 10034.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2017,
+  "rls": 7.15,
+  "hls": 11.71,
+  "ipm": null,
+  "pctMiskin": 10.09,
+  "pengeluaran": 10098.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2018,
+  "rls": 7.22,
+  "hls": 11.73,
+  "ipm": null,
+  "pctMiskin": 9.7,
+  "pengeluaran": 10553.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2019,
+  "rls": 7.23,
+  "hls": 11.88,
+  "ipm": null,
+  "pctMiskin": 9.35,
+  "pengeluaran": 10797.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2020,
+  "rls": 7.49,
+  "hls": 11.89,
+  "ipm": 70.07,
+  "pctMiskin": 9.33,
+  "pengeluaran": 10683.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2021,
+  "rls": 7.55,
+  "hls": 11.95,
+  "ipm": 70.28,
+  "pctMiskin": 9.67,
+  "pengeluaran": 10735.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2022,
+  "rls": 7.56,
+  "hls": 12.28,
+  "ipm": 71.08,
+  "pctMiskin": 8.42,
+  "pengeluaran": 11114.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2023,
+  "rls": 7.57,
+  "hls": 12.29,
+  "ipm": 71.56,
+  "pctMiskin": 8.04,
+  "pengeluaran": 11552.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2024,
+  "rls": 7.65,
+  "hls": 12.3,
+  "ipm": 72.24,
+  "pctMiskin": 7.88,
+  "pengeluaran": 12122.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2025,
+  "rls": 7.9,
+  "hls": 12.39,
+  "ipm": 73.11,
+  "pctMiskin": 7.54,
+  "pengeluaran": 12513.0
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tahun": 2026,
+  "rls": 8.05,
+  "hls": 12.4,
+  "ipm": 73.79,
+  "pctMiskin": null,
+  "pengeluaran": 13006.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2015,
+  "rls": 7.23,
+  "hls": 12.08,
+  "ipm": null,
+  "pctMiskin": 17.61,
+  "pengeluaran": 6744.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2016,
+  "rls": 7.24,
+  "hls": 12.25,
+  "ipm": null,
+  "pctMiskin": 17.31,
+  "pengeluaran": 7055.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2017,
+  "rls": 7.45,
+  "hls": 12.26,
+  "ipm": null,
+  "pctMiskin": 16.48,
+  "pengeluaran": 7449.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2018,
+  "rls": 7.47,
+  "hls": 12.28,
+  "ipm": null,
+  "pctMiskin": 15.97,
+  "pengeluaran": 7724.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2019,
+  "rls": 7.6,
+  "hls": 12.29,
+  "ipm": null,
+  "pctMiskin": 15.19,
+  "pengeluaran": 8059.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2020,
+  "rls": 7.7,
+  "hls": 12.36,
+  "ipm": 67.7,
+  "pctMiskin": 14.76,
+  "pengeluaran": 7892.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2021,
+  "rls": 7.71,
+  "hls": 12.59,
+  "ipm": 68.04,
+  "pctMiskin": 15.11,
+  "pengeluaran": 7934.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2022,
+  "rls": 7.77,
+  "hls": 12.61,
+  "ipm": 68.55,
+  "pctMiskin": 13.85,
+  "pengeluaran": 8192.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2023,
+  "rls": 7.99,
+  "hls": 12.62,
+  "ipm": 69.46,
+  "pctMiskin": 12.89,
+  "pengeluaran": 8633.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2024,
+  "rls": 8.0,
+  "hls": 12.63,
+  "ipm": 70.24,
+  "pctMiskin": 11.86,
+  "pengeluaran": 9190.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2025,
+  "rls": 8.01,
+  "hls": 12.64,
+  "ipm": 70.9,
+  "pctMiskin": 10.93,
+  "pengeluaran": 9638.0
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tahun": 2026,
+  "rls": 8.21,
+  "hls": 12.65,
+  "ipm": 71.69,
+  "pctMiskin": null,
+  "pengeluaran": 10046.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2015,
+  "rls": 7.83,
+  "hls": 12.75,
+  "ipm": null,
+  "pctMiskin": 11.8,
+  "pengeluaran": 9020.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2016,
+  "rls": 7.84,
+  "hls": 12.76,
+  "ipm": null,
+  "pctMiskin": 11.73,
+  "pengeluaran": 9533.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2017,
+  "rls": 7.85,
+  "hls": 12.77,
+  "ipm": null,
+  "pctMiskin": 11.3,
+  "pengeluaran": 9731.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2018,
+  "rls": 8.01,
+  "hls": 12.78,
+  "ipm": null,
+  "pctMiskin": 10.5,
+  "pengeluaran": 10190.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2019,
+  "rls": 8.19,
+  "hls": 12.82,
+  "ipm": null,
+  "pctMiskin": 10.15,
+  "pengeluaran": 10289.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2020,
+  "rls": 8.38,
+  "hls": 12.83,
+  "ipm": 72.04,
+  "pctMiskin": 9.97,
+  "pengeluaran": 10262.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2021,
+  "rls": 8.39,
+  "hls": 12.84,
+  "ipm": 72.14,
+  "pctMiskin": 10.11,
+  "pengeluaran": 10302.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2022,
+  "rls": 8.4,
+  "hls": 12.91,
+  "ipm": 72.57,
+  "pctMiskin": 9.34,
+  "pengeluaran": 10577.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2023,
+  "rls": 8.42,
+  "hls": 12.92,
+  "ipm": 73.11,
+  "pctMiskin": 9.14,
+  "pengeluaran": 11016.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2024,
+  "rls": 8.53,
+  "hls": 12.93,
+  "ipm": 73.84,
+  "pctMiskin": 8.32,
+  "pengeluaran": 11543.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2025,
+  "rls": 8.72,
+  "hls": 13.09,
+  "ipm": 74.76,
+  "pctMiskin": 7.6,
+  "pengeluaran": 11950.0
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tahun": 2026,
+  "rls": 8.73,
+  "hls": 13.23,
+  "ipm": 75.57,
+  "pctMiskin": null,
+  "pengeluaran": 12619.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2015,
+  "rls": 6.12,
+  "hls": 10.78,
+  "ipm": null,
+  "pctMiskin": 8.2,
+  "pengeluaran": 6836.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2016,
+  "rls": 6.13,
+  "hls": 11.2,
+  "ipm": null,
+  "pctMiskin": 8.0,
+  "pengeluaran": 7099.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2017,
+  "rls": 6.39,
+  "hls": 11.59,
+  "ipm": null,
+  "pctMiskin": 7.66,
+  "pengeluaran": 7319.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2018,
+  "rls": 6.6,
+  "hls": 11.61,
+  "ipm": null,
+  "pctMiskin": 7.55,
+  "pengeluaran": 7774.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2019,
+  "rls": 6.61,
+  "hls": 11.62,
+  "ipm": null,
+  "pctMiskin": 7.47,
+  "pengeluaran": 8144.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2020,
+  "rls": 6.88,
+  "hls": 11.63,
+  "ipm": 65.83,
+  "pctMiskin": 7.33,
+  "pengeluaran": 7894.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2021,
+  "rls": 7.08,
+  "hls": 11.64,
+  "ipm": 66.24,
+  "pctMiskin": 7.54,
+  "pengeluaran": 7980.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2022,
+  "rls": 7.09,
+  "hls": 11.8,
+  "ipm": 67.12,
+  "pctMiskin": 6.84,
+  "pengeluaran": 8466.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2023,
+  "rls": 7.11,
+  "hls": 11.81,
+  "ipm": 67.79,
+  "pctMiskin": 6.73,
+  "pengeluaran": 8947.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2024,
+  "rls": 7.21,
+  "hls": 11.82,
+  "ipm": 68.59,
+  "pctMiskin": 6.31,
+  "pengeluaran": 9454.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2025,
+  "rls": 7.3,
+  "hls": 11.97,
+  "ipm": 69.4,
+  "pctMiskin": 5.92,
+  "pengeluaran": 9843.0
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tahun": 2026,
+  "rls": 7.31,
+  "hls": 11.98,
+  "ipm": 70.04,
+  "pctMiskin": null,
+  "pengeluaran": 10392.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2015,
+  "rls": 6.82,
+  "hls": 11.49,
+  "ipm": null,
+  "pctMiskin": 8.23,
+  "pengeluaran": 7332.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2016,
+  "rls": 6.83,
+  "hls": 11.97,
+  "ipm": null,
+  "pctMiskin": 8.4,
+  "pengeluaran": 7450.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2017,
+  "rls": 7.09,
+  "hls": 11.98,
+  "ipm": null,
+  "pctMiskin": 8.11,
+  "pengeluaran": 7747.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2018,
+  "rls": 7.1,
+  "hls": 11.99,
+  "ipm": null,
+  "pctMiskin": 8.1,
+  "pengeluaran": 8205.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2019,
+  "rls": 7.13,
+  "hls": 12.04,
+  "ipm": null,
+  "pctMiskin": 7.75,
+  "pengeluaran": 8532.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2020,
+  "rls": 7.24,
+  "hls": 12.05,
+  "ipm": 67.51,
+  "pctMiskin": 7.39,
+  "pengeluaran": 8395.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2021,
+  "rls": 7.39,
+  "hls": 12.06,
+  "ipm": 67.76,
+  "pctMiskin": 8.32,
+  "pengeluaran": 8422.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2022,
+  "rls": 7.72,
+  "hls": 12.09,
+  "ipm": 68.7,
+  "pctMiskin": 7.44,
+  "pengeluaran": 8737.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2023,
+  "rls": 7.79,
+  "hls": 12.1,
+  "ipm": 69.38,
+  "pctMiskin": 7.25,
+  "pengeluaran": 9162.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2024,
+  "rls": 7.8,
+  "hls": 12.12,
+  "ipm": 70.04,
+  "pctMiskin": 7.22,
+  "pengeluaran": 9646.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2025,
+  "rls": 7.81,
+  "hls": 12.13,
+  "ipm": 70.61,
+  "pctMiskin": 6.72,
+  "pengeluaran": 10032.0
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tahun": 2026,
+  "rls": 7.91,
+  "hls": 12.14,
+  "ipm": 71.39,
+  "pctMiskin": null,
+  "pengeluaran": 10595.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2015,
+  "rls": 7.47,
+  "hls": 11.53,
+  "ipm": null,
+  "pctMiskin": 15.81,
+  "pengeluaran": 7251.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2016,
+  "rls": 7.48,
+  "hls": 11.85,
+  "ipm": null,
+  "pctMiskin": 15.91,
+  "pengeluaran": 7616.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2017,
+  "rls": 7.58,
+  "hls": 11.95,
+  "ipm": null,
+  "pctMiskin": 15.61,
+  "pengeluaran": 7890.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2018,
+  "rls": 7.59,
+  "hls": 11.97,
+  "ipm": null,
+  "pctMiskin": 14.98,
+  "pengeluaran": 8355.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2019,
+  "rls": 7.82,
+  "hls": 11.98,
+  "ipm": null,
+  "pctMiskin": 14.48,
+  "pengeluaran": 8652.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2020,
+  "rls": 8.01,
+  "hls": 11.99,
+  "ipm": 68.43,
+  "pctMiskin": 14.29,
+  "pengeluaran": 8457.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2021,
+  "rls": 8.19,
+  "hls": 12.0,
+  "ipm": 68.79,
+  "pctMiskin": 14.81,
+  "pengeluaran": 8533.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2022,
+  "rls": 8.53,
+  "hls": 12.13,
+  "ipm": 69.58,
+  "pctMiskin": 13.84,
+  "pengeluaran": 8663.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2023,
+  "rls": 8.7,
+  "hls": 12.14,
+  "ipm": 70.4,
+  "pctMiskin": 13.49,
+  "pengeluaran": 9102.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2024,
+  "rls": 8.73,
+  "hls": 12.16,
+  "ipm": 71.04,
+  "pctMiskin": 12.64,
+  "pengeluaran": 9550.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2025,
+  "rls": 8.76,
+  "hls": 12.31,
+  "ipm": 71.72,
+  "pctMiskin": 12.13,
+  "pengeluaran": 9879.0
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tahun": 2026,
+  "rls": 8.98,
+  "hls": 12.32,
+  "ipm": 72.56,
+  "pctMiskin": null,
+  "pengeluaran": 10338.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2015,
+  "rls": 10.87,
+  "hls": 13.35,
+  "ipm": null,
+  "pctMiskin": 10.33,
+  "pengeluaran": 11090.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2016,
+  "rls": 10.88,
+  "hls": 13.67,
+  "ipm": null,
+  "pctMiskin": 10.15,
+  "pengeluaran": 11266.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2017,
+  "rls": 10.89,
+  "hls": 13.87,
+  "ipm": null,
+  "pctMiskin": 9.94,
+  "pengeluaran": 11699.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2018,
+  "rls": 10.9,
+  "hls": 14.23,
+  "ipm": null,
+  "pctMiskin": 9.04,
+  "pengeluaran": 11952.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2019,
+  "rls": 10.92,
+  "hls": 14.53,
+  "ipm": null,
+  "pctMiskin": 8.71,
+  "pengeluaran": 12255.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2020,
+  "rls": 10.93,
+  "hls": 14.64,
+  "ipm": 78.78,
+  "pctMiskin": 8.81,
+  "pengeluaran": 12197.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2021,
+  "rls": 10.95,
+  "hls": 14.7,
+  "ipm": 78.93,
+  "pctMiskin": 9.11,
+  "pengeluaran": 12247.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2022,
+  "rls": 10.96,
+  "hls": 14.71,
+  "ipm": 79.33,
+  "pctMiskin": 8.21,
+  "pengeluaran": 12593.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2023,
+  "rls": 10.97,
+  "hls": 14.72,
+  "ipm": 79.86,
+  "pctMiskin": 7.77,
+  "pengeluaran": 13092.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2024,
+  "rls": 10.99,
+  "hls": 14.73,
+  "ipm": 80.46,
+  "pctMiskin": 7.37,
+  "pengeluaran": 13667.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2025,
+  "rls": 11.11,
+  "hls": 14.74,
+  "ipm": 81.26,
+  "pctMiskin": 6.95,
+  "pengeluaran": 14270.0
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tahun": 2026,
+  "rls": 11.18,
+  "hls": 14.75,
+  "ipm": 81.84,
+  "pctMiskin": null,
+  "pengeluaran": 14779.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2015,
+  "rls": 10.55,
+  "hls": 14.26,
+  "ipm": null,
+  "pctMiskin": 10.29,
+  "pengeluaran": 10707.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2016,
+  "rls": 10.56,
+  "hls": 14.27,
+  "ipm": null,
+  "pctMiskin": 10.15,
+  "pengeluaran": 11007.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2017,
+  "rls": 10.57,
+  "hls": 14.28,
+  "ipm": null,
+  "pctMiskin": 9.89,
+  "pengeluaran": 11397.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2018,
+  "rls": 10.61,
+  "hls": 14.29,
+  "ipm": null,
+  "pctMiskin": 9.14,
+  "pengeluaran": 11636.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2019,
+  "rls": 10.64,
+  "hls": 14.34,
+  "ipm": null,
+  "pctMiskin": 8.68,
+  "pengeluaran": 12017.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2020,
+  "rls": 10.96,
+  "hls": 14.47,
+  "ipm": 78.69,
+  "pctMiskin": 8.47,
+  "pengeluaran": 11906.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2021,
+  "rls": 10.97,
+  "hls": 14.75,
+  "ipm": 78.99,
+  "pctMiskin": 8.93,
+  "pengeluaran": 11916.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2022,
+  "rls": 10.98,
+  "hls": 14.76,
+  "ipm": 79.38,
+  "pctMiskin": 7.87,
+  "pengeluaran": 12233.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2023,
+  "rls": 11.0,
+  "hls": 14.77,
+  "ipm": 79.85,
+  "pctMiskin": 7.28,
+  "pengeluaran": 12618.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2024,
+  "rls": 11.01,
+  "hls": 14.79,
+  "ipm": 80.41,
+  "pctMiskin": 6.78,
+  "pengeluaran": 13092.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2025,
+  "rls": 11.19,
+  "hls": 14.97,
+  "ipm": 81.22,
+  "pctMiskin": 6.44,
+  "pengeluaran": 13380.0
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tahun": 2026,
+  "rls": 11.2,
+  "hls": 14.98,
+  "ipm": 81.82,
+  "pctMiskin": null,
+  "pengeluaran": 13969.0
+ }
+]

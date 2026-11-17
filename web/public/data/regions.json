@@ -1,0 +1,452 @@
+[
+ {
+  "kode": "1801",
+  "nama": "Lampung Barat",
+  "tipe": "kabupaten",
+  "penduduk": 319300,
+  "kepadatan": 151.0,
+  "luasKm2": 2422.0,
+  "sekolah": {
+   "smp": 62,
+   "sma": 19,
+   "smk": 9
+  },
+  "sekolahPer100rb": 8.77,
+  "sekolahPer100km2": 1.16,
+  "smpPer100rb": 19.42,
+  "pctPdrbPrimer": 46.27,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 9,
+   "rls": 10,
+   "hls": 3,
+   "ipm": 10,
+   "pengeluaran": 9,
+   "sekolahPer100rb": 3,
+   "smpPer100rb": 10,
+   "sekolahPer100km2": 2,
+   "kepadatan": 5,
+   "pctPdrbPrimer": 13
+  }
+ },
+ {
+  "kode": "1802",
+  "nama": "Tanggamus",
+  "tipe": "kabupaten",
+  "penduduk": 678000,
+  "kepadatan": 230.0,
+  "luasKm2": 2774.2,
+  "sekolah": {
+   "smp": 86,
+   "sma": 26,
+   "smk": 32
+  },
+  "sekolahPer100rb": 8.55,
+  "sekolahPer100km2": 2.09,
+  "smpPer100rb": 12.68,
+  "pctPdrbPrimer": 43.81,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 10,
+   "rls": 2,
+   "hls": 5,
+   "ipm": 4,
+   "pengeluaran": 7,
+   "sekolahPer100rb": 2,
+   "smpPer100rb": 2,
+   "sekolahPer100km2": 6,
+   "kepadatan": 6,
+   "pctPdrbPrimer": 12
+  }
+ },
+ {
+  "kode": "1803",
+  "nama": "Lampung Selatan",
+  "tipe": "kabupaten",
+  "penduduk": 1133400,
+  "kepadatan": 509.0,
+  "luasKm2": 2166.6,
+  "sekolah": {
+   "smp": 161,
+   "sma": 63,
+   "smk": 58
+  },
+  "sekolahPer100rb": 10.68,
+  "sekolahPer100km2": 5.58,
+  "smpPer100rb": 14.21,
+  "pctPdrbPrimer": 27.51,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 12,
+   "rls": 6,
+   "hls": 10,
+   "ipm": 8,
+   "pengeluaran": 8,
+   "sekolahPer100rb": 8,
+   "smpPer100rb": 6,
+   "sekolahPer100km2": 12,
+   "kepadatan": 12,
+   "pctPdrbPrimer": 4
+  }
+ },
+ {
+  "kode": "1804",
+  "nama": "Lampung Timur",
+  "tipe": "kabupaten",
+  "penduduk": 1164700,
+  "kepadatan": 302.0,
+  "luasKm2": 3915.8,
+  "sekolah": {
+   "smp": 183,
+   "sma": 55,
+   "smk": 68
+  },
+  "sekolahPer100rb": 10.56,
+  "sekolahPer100km2": 3.14,
+  "smpPer100rb": 15.71,
+  "pctPdrbPrimer": 52.36,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 14,
+   "rls": 9,
+   "hls": 11,
+   "ipm": 11,
+   "pengeluaran": 10,
+   "sekolahPer100rb": 7,
+   "smpPer100rb": 7,
+   "sekolahPer100km2": 10,
+   "kepadatan": 9,
+   "pctPdrbPrimer": 15
+  }
+ },
+ {
+  "kode": "1805",
+  "nama": "Lampung Tengah",
+  "tipe": "kabupaten",
+  "penduduk": 1541400,
+  "kepadatan": 338.0,
+  "luasKm2": 4616.9,
+  "sekolah": {
+   "smp": 217,
+   "sma": 76,
+   "smk": 78
+  },
+  "sekolahPer100rb": 9.99,
+  "sekolahPer100km2": 3.34,
+  "smpPer100rb": 14.08,
+  "pctPdrbPrimer": 36.26,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 8,
+   "rls": 8,
+   "hls": 13,
+   "ipm": 13,
+   "pengeluaran": 13,
+   "sekolahPer100rb": 5,
+   "smpPer100rb": 4,
+   "sekolahPer100km2": 11,
+   "kepadatan": 10,
+   "pctPdrbPrimer": 8
+  }
+ },
+ {
+  "kode": "1806",
+  "nama": "Lampung Utara",
+  "tipe": "kabupaten",
+  "penduduk": 665800,
+  "kepadatan": 249.0,
+  "luasKm2": 2551.5,
+  "sekolah": {
+   "smp": 109,
+   "sma": 48,
+   "smk": 26
+  },
+  "sekolahPer100rb": 11.11,
+  "sekolahPer100km2": 2.9,
+  "smpPer100rb": 16.37,
+  "pctPdrbPrimer": 35.42,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 15,
+   "rls": 11,
+   "hls": 8,
+   "ipm": 7,
+   "pengeluaran": 5,
+   "sekolahPer100rb": 9,
+   "smpPer100rb": 8,
+   "sekolahPer100km2": 8,
+   "kepadatan": 8,
+   "pctPdrbPrimer": 7
+  }
+ },
+ {
+  "kode": "1807",
+  "nama": "Way Kanan",
+  "tipe": "kabupaten",
+  "penduduk": 503300,
+  "kepadatan": 143.0,
+  "luasKm2": 3651.3,
+  "sekolah": {
+   "smp": 98,
+   "sma": 42,
+   "smk": 25
+  },
+  "sekolahPer100rb": 13.31,
+  "sekolahPer100km2": 1.83,
+  "smpPer100rb": 19.47,
+  "pctPdrbPrimer": 38.93,
+  "clusterId": 1,
+  "peringkat": {
+   "pctMiskin": 7,
+   "rls": 5,
+   "hls": 7,
+   "ipm": 6,
+   "pengeluaran": 6,
+   "sekolahPer100rb": 12,
+   "smpPer100rb": 12,
+   "sekolahPer100km2": 5,
+   "kepadatan": 3,
+   "pctPdrbPrimer": 11
+  }
+ },
+ {
+  "kode": "1808",
+  "nama": "Tulang Bawang",
+  "tipe": "kabupaten",
+  "penduduk": 455400,
+  "kepadatan": 146.0,
+  "luasKm2": 3093.0,
+  "sekolah": {
+   "smp": 99,
+   "sma": 26,
+   "smk": 30
+  },
+  "sekolahPer100rb": 12.3,
+  "sekolahPer100km2": 1.81,
+  "smpPer100rb": 21.74,
+  "pctPdrbPrimer": 35.33,
+  "clusterId": 1,
+  "peringkat": {
+   "pctMiskin": 5,
+   "rls": 4,
+   "hls": 6,
+   "ipm": 9,
+   "pengeluaran": 12,
+   "sekolahPer100rb": 11,
+   "smpPer100rb": 14,
+   "sekolahPer100km2": 4,
+   "kepadatan": 4,
+   "pctPdrbPrimer": 6
+  }
+ },
+ {
+  "kode": "1809",
+  "nama": "Pesawaran",
+  "tipe": "kabupaten",
+  "penduduk": 506300,
+  "kepadatan": 393.0,
+  "luasKm2": 1358.6,
+  "sekolah": {
+   "smp": 71,
+   "sma": 24,
+   "smk": 17
+  },
+  "sekolahPer100rb": 8.1,
+  "sekolahPer100km2": 3.02,
+  "smpPer100rb": 14.02,
+  "pctPdrbPrimer": 38.19,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 11,
+   "rls": 7,
+   "hls": 8,
+   "ipm": 3,
+   "pengeluaran": 1,
+   "sekolahPer100rb": 1,
+   "smpPer100rb": 3,
+   "sekolahPer100km2": 9,
+   "kepadatan": 11,
+   "pctPdrbPrimer": 10
+  }
+ },
+ {
+  "kode": "1810",
+  "nama": "Pringsewu",
+  "tipe": "kabupaten",
+  "penduduk": 429700,
+  "kepadatan": 696.0,
+  "luasKm2": 603.7,
+  "sekolah": {
+   "smp": 61,
+   "sma": 23,
+   "smk": 36
+  },
+  "sekolahPer100rb": 13.73,
+  "sekolahPer100km2": 9.77,
+  "smpPer100rb": 14.2,
+  "pctPdrbPrimer": 23.32,
+  "clusterId": 1,
+  "peringkat": {
+   "pctMiskin": 6,
+   "rls": 12,
+   "hls": 12,
+   "ipm": 12,
+   "pengeluaran": 11,
+   "sekolahPer100rb": 13,
+   "smpPer100rb": 5,
+   "sekolahPer100km2": 13,
+   "kepadatan": 13,
+   "pctPdrbPrimer": 3
+  }
+ },
+ {
+  "kode": "1811",
+  "nama": "Mesuji",
+  "tipe": "kabupaten",
+  "penduduk": 245200,
+  "kepadatan": 111.0,
+  "luasKm2": 2176.4,
+  "sekolah": {
+   "smp": 55,
+   "sma": 16,
+   "smk": 19
+  },
+  "sekolahPer100rb": 14.27,
+  "sekolahPer100km2": 1.61,
+  "smpPer100rb": 22.43,
+  "pctPdrbPrimer": 37.74,
+  "clusterId": 1,
+  "peringkat": {
+   "pctMiskin": 1,
+   "rls": 1,
+   "hls": 1,
+   "ipm": 1,
+   "pengeluaran": 2,
+   "sekolahPer100rb": 14,
+   "smpPer100rb": 15,
+   "sekolahPer100km2": 3,
+   "kepadatan": 2,
+   "pctPdrbPrimer": 9
+  }
+ },
+ {
+  "kode": "1812",
+  "nama": "Tulang Bawang Barat",
+  "tipe": "kabupaten",
+  "penduduk": 301800,
+  "kepadatan": 240.0,
+  "luasKm2": 1306.7,
+  "sekolah": {
+   "smp": 61,
+   "sma": 18,
+   "smk": 19
+  },
+  "sekolahPer100rb": 12.26,
+  "sekolahPer100km2": 2.83,
+  "smpPer100rb": 20.21,
+  "pctPdrbPrimer": 32.49,
+  "clusterId": 1,
+  "peringkat": {
+   "pctMiskin": 3,
+   "rls": 3,
+   "hls": 2,
+   "ipm": 2,
+   "pengeluaran": 4,
+   "sekolahPer100rb": 10,
+   "smpPer100rb": 13,
+   "sekolahPer100km2": 7,
+   "kepadatan": 7,
+   "pctPdrbPrimer": 5
+  }
+ },
+ {
+  "kode": "1813",
+  "nama": "Pesisir Barat",
+  "tipe": "kabupaten",
+  "penduduk": 174900,
+  "kepadatan": 59.0,
+  "luasKm2": 2683.4,
+  "sekolah": {
+   "smp": 34,
+   "sma": 12,
+   "smk": 4
+  },
+  "sekolahPer100rb": 9.15,
+  "sekolahPer100km2": 0.6,
+  "smpPer100rb": 19.44,
+  "pctPdrbPrimer": 49.04,
+  "clusterId": 2,
+  "peringkat": {
+   "pctMiskin": 13,
+   "rls": 13,
+   "hls": 3,
+   "ipm": 5,
+   "pengeluaran": 3,
+   "sekolahPer100rb": 4,
+   "smpPer100rb": 11,
+   "sekolahPer100km2": 1,
+   "kepadatan": 1,
+   "pctPdrbPrimer": 14
+  }
+ },
+ {
+  "kode": "1871",
+  "nama": "Kota Bandar Lampung",
+  "tipe": "kota",
+  "penduduk": 1226200,
+  "kepadatan": 6673.0,
+  "luasKm2": 175.9,
+  "sekolah": {
+   "smp": 151,
+   "sma": 76,
+   "smk": 50
+  },
+  "sekolahPer100rb": 10.28,
+  "sekolahPer100km2": 71.63,
+  "smpPer100rb": 12.31,
+  "pctPdrbPrimer": 5.98,
+  "clusterId": 3,
+  "peringkat": {
+   "pctMiskin": 4,
+   "rls": 14,
+   "hls": 14,
+   "ipm": 15,
+   "pengeluaran": 15,
+   "sekolahPer100rb": 6,
+   "smpPer100rb": 1,
+   "sekolahPer100km2": 15,
+   "kepadatan": 15,
+   "pctPdrbPrimer": 2
+  }
+ },
+ {
+  "kode": "1872",
+  "nama": "Kota Metro",
+  "tipe": "kota",
+  "penduduk": 177500,
+  "kepadatan": 2425.0,
+  "luasKm2": 77.7,
+  "sekolah": {
+   "smp": 32,
+   "sma": 21,
+   "smk": 20
+  },
+  "sekolahPer100rb": 23.1,
+  "sekolahPer100km2": 52.78,
+  "smpPer100rb": 18.03,
+  "pctPdrbPrimer": 5.03,
+  "clusterId": 3,
+  "peringkat": {
+   "pctMiskin": 2,
+   "rls": 15,
+   "hls": 15,
+   "ipm": 14,
+   "pengeluaran": 14,
+   "sekolahPer100rb": 15,
+   "smpPer100rb": 9,
+   "sekolahPer100km2": 14,
+   "kepadatan": 14,
+   "pctPdrbPrimer": 1
+  }
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "I1",
+  "halaman": 1,
+  "judul": "Selisih lama sekolah antarwilayah mencapai 3,89 tahun",
+  "angka": "7,30 vs 11,19 tahun",
+  "teks": "Pada 2025, rata-rata lama sekolah (RLS) penduduk 25+ di Mesuji hanya 7,30 tahun, sedangkan di Kota Metro 11,19 tahun. Rata-rata provinsi 8,61 tahun. Untuk harapan lama sekolah (HLS), rentangnya 11,97 (Mesuji) sampai 14,97 tahun (Kota Metro)."
+ },
+ {
+  "id": "I2",
+  "halaman": 1,
+  "judul": "Mesuji terendah di RLS dan HLS setiap tahun sejak 2015",
+  "angka": "12 dari 12 tahun",
+  "teks": "Mesuji berada di peringkat terbawah RLS pada 12 dari 12 tahun data (2015–2026) dan terbawah HLS pada 12 tahun. RLS Mesuji naik dari 6,12 (2015) menjadi 7,31 tahun (2026), tetapi belum cukup untuk keluar dari posisi terakhir."
+ },
+ {
+  "id": "I3",
+  "halaman": 1,
+  "judul": "Kesenjangan RLS menyempit, kesenjangan HLS nyaris tidak bergerak",
+  "angka": "CV RLS 16,49% → 12,54%",
+  "teks": "Koefisien variasi RLS antar-15 kab/kota turun dari 16,49% (2015) menjadi 12,54% (2026); selisih tertinggi–terendah turun dari 4,75 menjadi 3,89 tahun. Untuk HLS, koefisien variasi hanya berubah dari 6,93% menjadi 6,57% dan sejak 2020 bertahan di kisaran 6,57–6,92%. Artinya peluang sekolah generasi sekarang belum makin merata."
+ },
+ {
+  "id": "I4",
+  "halaman": 2,
+  "judul": "Mesuji: kemiskinan terendah, pendidikan juga terendah",
+  "angka": "5,92% miskin · RLS 7,30 tahun",
+  "teks": "Pada 2025, persentase penduduk miskin Mesuji 5,92%, terendah dari 15 kab/kota (provinsi 10,00%). Pada tahun yang sama RLS (7,30 tahun), HLS (11,97 tahun), dan IPM (69,40) Mesuji juga terendah. Mesuji memegang angka kemiskinan terendah pada 11 dari 11 tahun data (2015–2025)."
+ },
+ {
+  "id": "I5",
+  "halaman": 2,
+  "judul": "Tingkat kemiskinan hampir tidak berkaitan dengan lama sekolah",
+  "angka": "ρ = 0,04 (p = 0,90)",
+  "teks": "Korelasi Spearman 2025 antara % penduduk miskin dan HLS hanya ρ = 0,04 (p = 0,90), dan dengan RLS ρ = 0,16 (p = 0,56); keduanya tidak signifikan (n = 15). Di antara 13 kabupaten saja, arahnya malah positif untuk RLS (ρ = 0,58, p = 0,037): kabupaten yang lebih miskin justru cenderung punya RLS lebih tinggi. Angka kemiskinan saja tidak cukup untuk menentukan daerah prioritas pendidikan."
+ },
+ {
+  "id": "I6",
+  "halaman": 2,
+  "judul": "Yang berkaitan dengan HLS adalah sebaran sekolah per luas wilayah, bukan jumlah sekolah per penduduk",
+  "angka": "ρ = 0,89 vs ρ = 0,11",
+  "teks": "HLS berkaitan kuat dengan jumlah SMA+SMK per 100 km² (ρ = 0,89, p < 0,001) dan kepadatan penduduk (ρ = 0,85, p < 0,001), tetapi tidak dengan SMA+SMK per 100 ribu penduduk (ρ = 0,11, p = 0,70). Kaitan ini bertahan tanpa dua kota (13 kabupaten: ρ = 0,84 dan 0,78). Mesuji punya 14,27 SMA+SMK per 100 ribu penduduk (peringkat 2 tertinggi) dan 22,43 SMP per 100 ribu penduduk (peringkat 1 tertinggi), tetapi hanya 1,61 SMA+SMK per 100 km² dengan kepadatan 111 jiwa/km²."
+ },
+ {
+  "id": "I7",
+  "halaman": 2,
+  "judul": "Kemiskinan rendah Mesuji tidak sejalan dengan daya belinya",
+  "angka": "Rp9,84 juta per orang per tahun",
+  "teks": "Pengeluaran riil per kapita Mesuji 2025 sebesar Rp9,84 juta per tahun, terendah ke-2 dari 15 kab/kota (provinsi Rp11,68 juta). Sepanjang 2015–2025, Mesuji selalu terendah di % miskin dan berada di dua posisi terbawah pengeluaran pada 11 dari 11 tahun. Sedikit penduduk di bawah garis kemiskinan tidak berarti penduduknya sejahtera."
+ },
+ {
+  "id": "I8",
+  "halaman": 2,
+  "judul": "Ekonomi primer berkaitan negatif dengan HLS, tetapi buktinya lemah",
+  "angka": "ρ = −0,50 (p = 0,055)",
+  "teks": "Makin besar porsi sektor primer dalam PDRB 2025, HLS cenderung makin rendah (ρ = −0,50), namun p = 0,055 sehingga tidak signifikan pada taraf 5%. Tanpa dua kota, kaitannya melemah (ρ = −0,24, p = 0,44). Pengeluaran riil per kapita berkaitan lebih jelas dengan HLS (ρ = 0,73, p = 0,002)."
+ },
+ {
+  "id": "I9",
+  "halaman": 3,
+  "judul": "Mesuji tidak sendirian: 3 kabupaten lain selalu sekelompok dengannya",
+  "angka": "5 kabupaten · 7,43% miskin · RLS 7,93 tahun",
+  "teks": "Clustering K-Means (k = 3) menempatkan Way Kanan, Tulang Bawang, Pringsewu, Mesuji, dan Tulang Bawang Barat dalam satu tipe: rata-rata % miskin 7,43% (tipe agraris 11,58%), tetapi RLS 7,93 tahun dan HLS 12,42 tahun (terendah dari semua tipe), padahal SMA+SMK per 100 ribu penduduknya 13,17 (tipe agraris 9,61). Way Kanan, Tulang Bawang, Mesuji, dan Tulang Bawang Barat selalu sekelompok di 6 solusi yang diuji (k = 3, 4, 5; K-Means dan Ward). Pringsewu adalah pengecualian: masuk tipe ini karena kemiskinannya rendah (7,60%) dan sekolahnya banyak, tetapi RLS (8,72) dan HLS (13,09) di atas provinsi dan kepadatannya 696 jiwa/km²."
+ },
+ {
+  "id": "I10",
+  "halaman": 3,
+  "judul": "8 kabupaten agraris menanggung kemiskinan tertinggi dan sekolah menengah paling sedikit per penduduk",
+  "angka": "11,58% miskin · 9,61 sekolah per 100 ribu",
+  "teks": "Lampung Barat, Tanggamus, Lampung Selatan, Lampung Timur, Lampung Tengah, Lampung Utara, Pesawaran, dan Pesisir Barat rata-rata memiliki 11,58% penduduk miskin, porsi PDRB primer 41,11%, dan 9,61 SMA+SMK per 100 ribu penduduk (terendah dari semua tipe). HLS rata-ratanya 12,65 tahun, di bawah provinsi (12,79)."
+ },
+ {
+  "id": "I11",
+  "halaman": 3,
+  "judul": "Dua kota berada di kelas tersendiri",
+  "angka": "RLS 11,15 · HLS 14,86 tahun",
+  "teks": "Kota Bandar Lampung dan Kota Metro punya RLS rata-rata 11,15 tahun dan HLS 14,86 tahun, jauh di atas provinsi (8,61 dan 12,79). Kerapatan sekolahnya 62,20 SMA+SMK per 100 km², sedangkan dua tipe kabupaten hanya 3,57 dan 2,73. Porsi PDRB primernya 5,51%."
+ }
+]

@@ -1,0 +1,414 @@
+{
+ "diaksesPada": "2026-11-16",
+ "dataset": {
+  "periode": "2015–2026",
+  "jumlahWilayah": 15,
+  "jumlahBarisPanel": 192,
+  "jumlahNilaiTerisi": 864,
+  "tahunPenampang": 2025,
+  "variabel": [
+   "rls",
+   "hls",
+   "ipm",
+   "pctMiskin",
+   "pengeluaran",
+   "pctPdrbPrimer",
+   "sekolah (SMP, SMA, SMK)",
+   "penduduk",
+   "kepadatan",
+   "luasKm2"
+  ]
+ },
+ "sumber": [
+  {
+   "nama": "BPS – [Metode Baru] Rata-rata Lama Sekolah",
+   "url": "https://www.bps.go.id/id/statistics-table/2/NDE1IzI=/-metode-baru--rata-rata-lama-sekolah.html",
+   "variabel": [
+    "rls"
+   ],
+   "periode": "2015–2026",
+   "berkas": "bps_rls_kabkota_2015-2026.csv"
+  },
+  {
+   "nama": "BPS – [Metode Baru] Harapan Lama Sekolah",
+   "url": "https://www.bps.go.id/id/statistics-table/2/NDE3IzI=/-metode-baru--harapan-lama-sekolah--tahun-.html",
+   "variabel": [
+    "hls"
+   ],
+   "periode": "2015–2026",
+   "berkas": "bps_hls_kabkota_2015-2026.csv"
+  },
+  {
+   "nama": "BPS – IPM (UHH hasil Long Form SP2020)",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjIwNSMy/-metode-baru--indeks-pembangunan-manusia--umur-harapan-hidup-hasil-long-form-sp2020-.html",
+   "variabel": [
+    "ipm"
+   ],
+   "periode": "2020–2026",
+   "berkas": "bps_ipm-uhh-lf-sp2020_kabkota_2020-2026.csv"
+  },
+  {
+   "nama": "BPS – Persentase Penduduk Miskin (P0) Menurut Kabupaten/Kota",
+   "url": "https://www.bps.go.id/id/statistics-table/2/NjIxIzI=/persentase-penduduk-miskin--p0--menurut-kabupaten-kota--persen-.html",
+   "variabel": [
+    "pctMiskin"
+   ],
+   "periode": "2015–2025",
+   "berkas": "bps_p0-persen-miskin_kabkota_2015-2025.csv"
+  },
+  {
+   "nama": "BPS – [Metode Baru] Pengeluaran per Kapita Disesuaikan",
+   "url": "https://www.bps.go.id/id/statistics-table/2/NDE2IzI=/-metode-baru-pengeluaran-per-kapita-disesuaikan.html",
+   "variabel": [
+    "pengeluaran"
+   ],
+   "periode": "2015–2026",
+   "berkas": "bps_pengeluaran-riil-per-kapita-disesuaikan_ribu-rp-tahun_kabkota_2015-2026.csv"
+  },
+  {
+   "nama": "BPS – PDRB Triwulanan ADHB Menurut Lapangan Usaha Kab/Kota (kolom tahunan)",
+   "url": "https://www.bps.go.id/id/statistics-table/2/MjUzMyMy/pdrb-triwulanan-atas-dasar-harga-berlaku-menurut-lapangan-usaha-di-kabupaten-kota-seluruh-indonesia.html",
+   "variabel": [
+    "pctPdrbPrimer"
+   ],
+   "periode": "2025",
+   "berkas": "bps_pdrb-adhb-sektor_kabkota_2025_milyar-rp.csv"
+  },
+  {
+   "nama": "BPS Provinsi Lampung – Jumlah SMP, SMA, SMK Menurut Kabupaten/Kota",
+   "url": "https://lampung.bps.go.id/id/statistics-table/2/ODUwIzI=/jumlah-sekolah-menengah-atas--sma--di-bawah-kementerian-pendidikan--kebudayaan--riset--dan-teknologi-menurut-kabupaten-kota.html",
+   "variabel": [
+    "sekolah",
+    "sekolahPer100rb",
+    "sekolahPer100km2",
+    "smpPer100rb"
+   ],
+   "periode": "2025",
+   "berkas": "bps_jumlah-sekolah-smp-sma-smk_kabkota_2025.csv"
+  },
+  {
+   "nama": "BPS Provinsi Lampung – Penduduk, Laju Pertumbuhan, Distribusi, Kepadatan, dan Rasio Jenis Kelamin Menurut Kabupaten/Kota, 2025",
+   "url": "https://lampung.bps.go.id/id/statistics-table/3/V1ZSbFRUY3lTbFpEYTNsVWNGcDZjek53YkhsNFFUMDkjMw==/jumlah-penduduk--laju-pertumbuhan-penduduk--distribusi-persentase-penduduk--kepadatan-penduduk--rasio-jenis-kelamin-penduduk-menurut-kabupaten-kota-di-provinsi-lampung--2025.html?year=2025",
+   "variabel": [
+    "penduduk",
+    "kepadatan"
+   ],
+   "periode": "2025 (proyeksi hasil SP2020)",
+   "berkas": "bps_penduduk-kepadatan_kabkota_2025.csv"
+  },
+  {
+   "nama": "geoBoundaries IDN ADM2 (batas kab/kota, disederhanakan)",
+   "url": "https://github.com/wmgeolab/geoBoundaries",
+   "variabel": [
+    "luasKm2",
+    "peta"
+   ],
+   "periode": "—",
+   "berkas": "lampung_kabkota.geojson"
+  }
+ ],
+ "definisi": {
+  "rls": "Rata-rata Lama Sekolah: rata-rata jumlah tahun pendidikan formal yang dijalani penduduk usia 25 tahun ke atas. Menggambarkan capaian generasi dewasa.",
+  "hls": "Harapan Lama Sekolah: lama sekolah (tahun) yang diharapkan akan dijalani anak usia 7 tahun. Menggambarkan peluang sekolah generasi sekarang.",
+  "ipm": "Indeks Pembangunan Manusia, seri umur harapan hidup hasil Long Form SP2020 (tersedia 2020–2026).",
+  "pctMiskin": "Persentase penduduk miskin (P0): bagian penduduk dengan pengeluaran per kapita di bawah garis kemiskinan.",
+  "pengeluaran": "Pengeluaran riil per kapita yang disesuaikan (ribu rupiah per orang per tahun), ukuran daya beli dalam IPM.",
+  "pctPdrbPrimer": "Porsi sektor primer (pertanian, kehutanan, perikanan, pertambangan) dalam PDRB atas dasar harga berlaku 2025.",
+  "sekolahPer100rb": "Jumlah SMA + SMK (negeri dan swasta) per 100 ribu penduduk.",
+  "sekolahPer100km2": "Jumlah SMA + SMK per 100 km² luas wilayah; pendekatan untuk jarak ke sekolah.",
+  "smpPer100rb": "Jumlah SMP (negeri dan swasta) per 100 ribu penduduk.",
+  "penduduk": "Jumlah penduduk pertengahan tahun 2025 menurut Proyeksi Penduduk Indonesia 2020–2035 hasil Sensus Penduduk 2020 (BPS).",
+  "kepadatan": "Jumlah penduduk per km² tahun 2025 menurut BPS Provinsi Lampung.",
+  "luasKm2": "Luas wilayah dihitung dari poligon peta dengan proyeksi equal-area (EPSG:6933); bukan angka luas resmi.",
+  "cv": "Koefisien variasi: simpangan baku antar-15 kab/kota dibagi rata-ratanya (persen). Makin besar, makin timpang."
+ },
+ "metode": {
+  "korelasi": "Korelasi peringkat Spearman pada data penampang 2025 (n = 15 kab/kota), dengan p-value dua sisi. Uji ketahanan diulang pada 13 kabupaten tanpa dua kota.",
+  "disparitas": "Selisih nilai tertinggi–terendah dan koefisien variasi (simpangan baku populasi ÷ rata-rata) per indikator per tahun, 15 kab/kota tanpa baris provinsi.",
+  "clustering": "K-Means pada 8 variabel yang distandarisasi z-score (kepadatan di-log), n_init = 50, random_state = 42. Nilai k = 3, 4, 5 dibandingkan dengan skor siluet dan kesesuaian dengan hierarchical clustering Ward (Adjusted Rand Index). Aturan pemilihan: siluet dalam 0.01 dari maksimum, lalu ARI vs Ward tertinggi. Kestabilan diuji dengan mencari kab/kota yang selalu sekelompok di semua 6 solusi (k = 3, 4, 5; K-Means dan Ward).",
+  "variabelCluster": [
+   "rls",
+   "hls",
+   "pctMiskin",
+   "pengeluaran",
+   "pctPdrbPrimer",
+   "sekolahPer100rb",
+   "sekolahPer100km2",
+   "kepadatan"
+  ],
+  "kTerpilih": 3,
+  "evaluasiK": [
+   {
+    "k": 3,
+    "silhouette": 0.2524,
+    "ariWard": 0.5465,
+    "inertia": 32.4491
+   },
+   {
+    "k": 4,
+    "silhouette": 0.1958,
+    "ariWard": 0.5411,
+    "inertia": 24.869
+   },
+   {
+    "k": 5,
+    "silhouette": 0.1968,
+    "ariWard": 1.0,
+    "inertia": 18.1289
+   }
+  ],
+  "peringkat": "Peringkat 1–15 per indikator; 1 = nilai terendah."
+ },
+ "hipotesis": [
+  {
+   "id": "H1",
+   "pernyataan": "Kemiskinan bukan prediktor terkuat rendahnya RLS/HLS.",
+   "hasil": "didukung",
+   "bukti": "ρ % miskin–HLS = 0,04 (p = 0,90) dan –RLS = 0,16 (p = 0,56), keduanya tidak signifikan. Untuk HLS, kaitan terkuat adalah sekolah per 100 km² (ρ = 0,89), disusul kepadatan (ρ = 0,85) dan pengeluaran riil (ρ = 0,73)."
+  },
+  {
+   "id": "H2",
+   "pernyataan": "Daerah dengan porsi ekonomi primer tinggi punya HLS lebih rendah.",
+   "hasil": "sebagian",
+   "bukti": "Arahnya sesuai (ρ = −0,50) tetapi p = 0,055, tidak signifikan pada taraf 5%; tanpa dua kota ρ = −0,24 (p = 0,44)."
+  },
+  {
+   "id": "H3",
+   "pernyataan": "Yang menghambat adalah sebaran wilayah (jarak), bukan jumlah sekolah.",
+   "hasil": "didukung",
+   "bukti": "HLS berkaitan dengan kepadatan (ρ = 0,85) dan sekolah per 100 km² (ρ = 0,89), tidak dengan sekolah per 100 ribu penduduk (ρ = 0,11, p = 0,70). Bertahan pada 13 kabupaten (ρ = 0,78 dan 0,84). Catatan: untuk RLS kaitan dengan kepadatan hilang tanpa kota (ρ = 0,25, p = 0,40), jadi temuan ini berlaku untuk HLS."
+  },
+  {
+   "id": "H4",
+   "pernyataan": "Kesenjangan antar kab/kota tidak menyempit sejak 2015.",
+   "hasil": "sebagian",
+   "bukti": "Tidak didukung untuk RLS: koefisien variasi turun dari 16,49% ke 12,54%. Didukung untuk HLS: 6,93% ke 6,57%, dan selisih tertinggi–terendah tetap sekitar 3,00 tahun sejak 2020."
+  },
+  {
+   "id": "H5",
+   "pernyataan": "Angka kemiskinan Mesuji tidak sejalan dengan kesejahteraan riilnya.",
+   "hasil": "didukung",
+   "bukti": "2015–2025: Mesuji selalu peringkat 1 terendah % miskin, tetapi pengeluaran riilnya berada di peringkat 1 atau 2 terendah."
+  }
+ ],
+ "korelasiKabupaten": {
+  "vars": [
+   "rls",
+   "hls",
+   "pctMiskin",
+   "pengeluaran",
+   "pctPdrbPrimer",
+   "sekolahPer100rb",
+   "sekolahPer100km2",
+   "kepadatan"
+  ],
+  "rho": [
+   [
+    1.0,
+    0.438,
+    0.5824,
+    0.1868,
+    0.1429,
+    -0.2253,
+    0.1648,
+    0.2527
+   ],
+   [
+    0.438,
+    1.0,
+    0.3802,
+    0.584,
+    -0.2369,
+    -0.0716,
+    0.843,
+    0.7796
+   ],
+   [
+    0.5824,
+    0.3802,
+    1.0,
+    -0.0714,
+    0.4121,
+    -0.5879,
+    0.1813,
+    0.2363
+   ],
+   [
+    0.1868,
+    0.584,
+    -0.0714,
+    1.0,
+    -0.1978,
+    0.0989,
+    0.3791,
+    0.3352
+   ],
+   [
+    0.1429,
+    -0.2369,
+    0.4121,
+    -0.1978,
+    1.0,
+    -0.533,
+    -0.522,
+    -0.4945
+   ],
+   [
+    -0.2253,
+    -0.0716,
+    -0.5879,
+    0.0989,
+    -0.533,
+    1.0,
+    0.0549,
+    -0.1374
+   ],
+   [
+    0.1648,
+    0.843,
+    0.1813,
+    0.3791,
+    -0.522,
+    0.0549,
+    1.0,
+    0.9451
+   ],
+   [
+    0.2527,
+    0.7796,
+    0.2363,
+    0.3352,
+    -0.4945,
+    -0.1374,
+    0.9451,
+    1.0
+   ]
+  ],
+  "p": [
+   [
+    0.0,
+    0.1344,
+    0.0367,
+    0.5411,
+    0.6415,
+    0.4593,
+    0.5905,
+    0.4048
+   ],
+   [
+    0.1344,
+    0.0,
+    0.2001,
+    0.0361,
+    0.4358,
+    0.8161,
+    0.0003,
+    0.0017
+   ],
+   [
+    0.0367,
+    0.2001,
+    0.0,
+    0.8166,
+    0.1618,
+    0.0346,
+    0.5533,
+    0.4371
+   ],
+   [
+    0.5411,
+    0.0361,
+    0.8166,
+    0.0,
+    0.5171,
+    0.7479,
+    0.2014,
+    0.2629
+   ],
+   [
+    0.6415,
+    0.4358,
+    0.1618,
+    0.5171,
+    0.0,
+    0.0607,
+    0.0673,
+    0.0858
+   ],
+   [
+    0.4593,
+    0.8161,
+    0.0346,
+    0.7479,
+    0.0607,
+    0.0,
+    0.8585,
+    0.6545
+   ],
+   [
+    0.5905,
+    0.0003,
+    0.5533,
+    0.2014,
+    0.0673,
+    0.8585,
+    0.0,
+    0.0
+   ],
+   [
+    0.4048,
+    0.0017,
+    0.4371,
+    0.2629,
+    0.0858,
+    0.6545,
+    0.0,
+    0.0
+   ]
+  ],
+  "tahun": 2025,
+  "n": 13
+ },
+ "keterbatasan": [
+  "Hanya 15 kab/kota (n = 15): hasil bersifat korelasional dan tidak membuktikan sebab-akibat. Temuan ditulis sebagai \"berkaitan dengan\".",
+  "Angka Partisipasi Sekolah, jumlah guru, dan jumlah murid per kab/kota tidak dipublikasikan BPS secara daring; HLS dipakai sebagai pengganti partisipasi sekolah.",
+  "Luas wilayah dihitung dari peta geoBoundaries yang disederhanakan, bukan angka resmi; rasio sekolah per 100 km² adalah pendekatan jarak, bukan ukuran jarak sebenarnya.",
+  "Variabel penjelas (PDRB, jumlah sekolah, penduduk) hanya tersedia untuk satu tahun, sehingga korelasi dan clustering memakai penampang 2025 saja.",
+  "Jumlah penduduk 2025 adalah angka proyeksi BPS (hasil Sensus Penduduk 2020, pertengahan tahun), bukan hasil pencacahan.",
+  "Dua kota (Bandar Lampung dan Metro) sangat berbeda dari 13 kabupaten dan memengaruhi korelasi; karena itu korelasi juga dihitung tanpa keduanya.",
+  "Skor siluet clustering rendah (0,25) dan K-Means hanya sebagian sejalan dengan Ward (ARI 0,55): batas antartipe tidak tegas dan susunan tipe berubah bila jumlah tipe atau metode diubah. Yang konsisten di semua solusi adalah kelompok inti Way Kanan, Tulang Bawang, Mesuji, dan Tulang Bawang Barat. Tipologi dipakai sebagai alat bantu membaca pola, bukan klasifikasi mutlak.",
+  "IPM seri baru hanya tersedia sejak 2020; persentase penduduk miskin belum tersedia untuk 2026."
+ ],
+ "aiDisclosure": [
+  {
+   "alat": "Claude Code (Anthropic)",
+   "tujuan": "Coding dan debugging pipeline olah data: penggabungan CSV, ketimpangan, korelasi Spearman, dan clustering.",
+   "bagian": "Skrip Python di folder analysis/ dan berkas JSON hasil olahannya."
+  },
+  {
+   "alat": "Claude Code (Anthropic)",
+   "tujuan": "Coding dan debugging situs: halaman, filter, peta, dan grafik.",
+   "bagian": "Kode situs di folder web/ (empat halaman dashboard)."
+  },
+  {
+   "alat": "Claude Code (Anthropic)",
+   "tujuan": "Mengambil tabel penduduk dan kepadatan 2025 dari situs BPS Provinsi Lampung dan menyimpannya apa adanya sebagai CSV.",
+   "bagian": "Berkas data/raw/bps_penduduk-kepadatan_kabkota_2025.csv."
+  },
+  {
+   "alat": "Claude Code (Anthropic)",
+   "tujuan": "Menyusun draf kalimat insight dan rekomendasi dari angka hasil analisis, serta perbaikan bahasa.",
+   "bagian": "Teks insight, nama tipe daerah, rekomendasi, halaman Tentang Data, dan draf ringkasan proyek."
+  },
+  {
+   "alat": "Claude Code (Anthropic)",
+   "tujuan": "Membuat skrip rekaman layar otomatis untuk video demo (tanpa suara) dan menyusun draf naskah narasi.",
+   "bagian": "Video demo dan naskahnya (folder demo/); suara narasi direkam sendiri oleh tim."
+  }
+ ],
+ "verifikasiAi": [
+  "Angka di situs dicek ulang terhadap CSV BPS di data/raw; pipeline dijalankan ulang dan hasilnya identik.",
+  "Setiap angka dalam kalimat insight diisi otomatis dari hasil olahan, lalu kalimatnya ditinjau tim.",
+  "AI tidak digunakan untuk membuat data, memalsukan hasil analisis, atau membuat referensi."
+ ]
+}
