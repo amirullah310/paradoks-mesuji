@@ -6,7 +6,7 @@ Dashboard ketimpangan pendidikan 15 kabupaten/kota di Provinsi Lampung untuk **A
 
 **Inti cerita:** Kabupaten Mesuji punya persentase penduduk miskin terendah di Lampung, tetapi rata-rata lama sekolah (RLS), harapan lama sekolah (HLS), dan IPM-nya juga terendah. Dashboard ini menguji mengapa kemiskinan rendah tidak otomatis berarti pendidikan baik, lalu mengelompokkan 15 kab/kota ke tiga tipe daerah dengan rekomendasi yang berbeda.
 
-- Situs: _(isi tautan Vercel setelah deploy)_
+- Situs: https://amirullah310.github.io/paradoks-mesuji/
 - Video demo: _(isi tautan)_
 
 ## Struktur
@@ -44,7 +44,7 @@ npm run build      # hasil statis di web/out/
 Pemeriksaan kualitas di `web/`: `npm run lint`, `npm run typecheck`, `npm test`.
 `npm run build` gagal jika JSON tidak lolos validasi skema zod (`src/lib/schema.ts`).
 
-Deploy: Vercel dengan Root Directory `web` (tanpa konfigurasi lain). Folder `web/out/` juga bisa diunggah ke host statis mana pun.
+Deploy: GitHub Pages lewat workflow `.github/workflows/pages.yml` (setiap push ke `main` otomatis diterbitkan ulang; alamat dasar `/paradoks-mesuji` diatur lewat `NEXT_PUBLIC_BASE_PATH`). Alternatif: Vercel dengan Root Directory `web`.
 
 ## Video demo
 
