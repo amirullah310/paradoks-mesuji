@@ -23,6 +23,10 @@ ROOT = HERE.parent
 BROWSER = os.environ.get("BROWSER_PATH", r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
 
 cfg = json.loads((HERE / "data_berkas.json").read_text(encoding="utf-8"))
+# Data pribadi (mis. NIP dosen) disimpan terpisah dan tidak di-commit ke repo publik.
+_pribadi = HERE / "data_pribadi.json"
+if _pribadi.exists():
+    cfg.update(json.loads(_pribadi.read_text(encoding="utf-8")))
 meta = json.loads((ROOT / "web" / "public" / "data" / "meta.json").read_text(encoding="utf-8"))
 
 e = html.escape
@@ -91,6 +95,7 @@ tanggal = cfg.get("tanggal", "").strip()
 tempat_tanggal = f"{e(cfg['tempat'])}, {e(tanggal) if tanggal else '.' * 24 + ' 2026'}"
 if not tanggal:
     missing.append("tanggal surat")
+nip_dosen = f'<br>NIP. {e(cfg["nipDosen"])}' if str(cfg.get("nipDosen", "")).strip() else ""
 orisinalitas = f"""
 <h1>Surat Pernyataan Orisinalitas Karya</h1>
 <p class="sub">AI &amp; Coding Dashboard Challenge · Festival &amp; Expo Sains Data Nasional 2026</p>
@@ -108,7 +113,7 @@ ini tidak benar, kami bersedia menerima sanksi sesuai ketentuan panitia.</p>
 <p style="margin-top:14pt">{tempat_tanggal}</p>
 <div class="ttd">
   <div>Ketua Tim,<div class="ruang"></div>( {isi("ketuaTim", "nama ketua tim", 36)} )</div>
-  <div>Dosen Pembimbing,<div class="ruang"></div>( {isi("dosenPembimbing", "nama dosen pembimbing", 36)} )</div>
+  <div>Dosen Pembimbing,<div class="ruang"></div>( {isi("dosenPembimbing", "nama dosen pembimbing", 36)} ){nip_dosen}</div>
 </div>
 """
 out_ori = HERE / f"ORISINALITAS_{tim}_{kampus_file}.pdf"

@@ -13,3 +13,7 @@ Thumbs.db
 # Video demo: berkas besar, diunggah terpisah (YouTube/Drive)
 demo/*.mp4
 demo/suara/
+
+# Data pribadi & surat bertanda tangan: tidak dipublikasikan di repo
+berkas/data_pribadi.json
+berkas/ORISINALITAS_*.pdf
