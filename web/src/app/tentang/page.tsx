@@ -73,7 +73,7 @@ export default function TentangPage() {
         </p>
         <div>
           <a
-            href="/data/panel.csv"
+            href={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/panel.csv`}
             download
             className="inline-flex h-9 items-center gap-2 rounded-lg bg-foreground px-3 text-sm font-medium text-background hover:bg-foreground/85"
           >
