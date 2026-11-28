@@ -17,3 +17,6 @@ demo/suara/
 # Data pribadi & surat bertanda tangan: tidak dipublikasikan di repo
 berkas/data_pribadi.json
 berkas/ORISINALITAS_*.pdf
+
+# Catatan crash Git Bash (Windows)
+*.stackdump
